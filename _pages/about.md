@@ -86,7 +86,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences </font></p>
 
-* [ISBA World Meeting](https://isbawebmaster.github.io/ISBA2022/). (Montreal, 2022)
+* [ISBA World Meeting](https://isbawebmaster.github.io/ISBA2022/). (Montréal, 2022)
 * [Austrian & Slovenian Statistical Days](http://www.stat.tugraz.at/StatisticalDays2022/). Invited. (Graz, 2022)
 * [5th International Conference on Econometrics and Statistics](http://www.cmstatistics.org/EcoSta2022/). Invited. (Online, 2022)
 * [15th International Conference on Computational and Financial Econometrics](http://www.cfenetwork.org/CFE2021/). Invited. (Online, 2021)
