@@ -26,7 +26,7 @@ with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-resear
 with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (Princeton University)
 
 3.  **Analyzing Spatial Patterns of Household Survey Data Quality in Sub-Saharan Africa**. <br>
-with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), [Valentin Seidler](https://www.wu.ac.at/economics/mitarbeiter-innen/seidler-v) and many more
+with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), [Valentin Seidler](https://www.wu.ac.at/economics/mitarbeiter-innen/seidler-v) (WU Vienna) and many more
 
 4. **Impact Evaluation of a Large Scale Female Entrepreneurship Program in Mexico**. <br>
 with [Leonardo Iacovone](https://www.hertie-school.org/en/who-we-are/profile/person/iacovone) (World Bank, Hertie School) and [Michael Frese](https://asb.edu.my/faculty-research/our-faculty/asia-school-of-business-resident-faculty/michael-frese) (Asia School of Business)
