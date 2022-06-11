@@ -9,7 +9,7 @@ redirect_from:
 
 <p style = "margin-bottom:20px;"><font  size="7" >  Gregor Zens <br> </font> </p>
   
-I am a postdoctoral researcher at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://bidsa.unibocconi.eu/), where I work with [Daniele Durante](https://danieledurante.github.io/web/).  Previously, I worked as a postdoc at the Institute for Statistics and Mathematics at [WU Vienna](https://www.wu.ac.at/en/) with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I obtained my PhD in economics with a focus on Bayesian econometrics at [WU Vienna](https://www.wu.ac.at/en/), under the supervision of [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) and [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I have also acted as statistical consultant for the [International Bank of Reconstruction and Development](https://www.worldbank.org/en/who-we-are/ibrd) and the [International Finance Corporation](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home).
+I am a postdoctoral researcher at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://bidsa.unibocconi.eu/), where I work with [Daniele Durante](https://danieledurante.github.io/web/).  Previously, I worked as a postdoc at the Institute for Statistics and Mathematics at [WU Vienna](https://www.wu.ac.at/en/) with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I obtained my PhD in economics with a focus on Bayesian econometrics at [WU Vienna](https://www.wu.ac.at/en/), under the supervision of [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) and [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I have also served as a statistical consultant for the [International Bank of Reconstruction and Development](https://www.worldbank.org/en/who-we-are/ibrd) and the [International Finance Corporation](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home).
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Focus  </font></p>
@@ -70,12 +70,12 @@ Master's Thesis.<br>
 ([link](https://cran.r-project.org/web/packages/UPG/UPG.pdf), [vignette](https://arxiv.org/abs/2101.02506))
 
 
-<p style = "margin-bottom:5px;"> <font size="5" > <br> Blogs and General Audience </font></p>
+<p style = "margin-bottom:5px;"> <font size="5" > <br> Newspapers, Blogs, General Audience </font></p>
 
 (In German only, sorry!)
 
 1. [Ausserirdische Ökonomische Daten](https://www.derstandard.at/story/2000113792650/ausserirdische-oekonomische-daten).<br>
-On satellite-based economic research. derStandard.at, January 2021.
+On satellite-based economic research. derStandard.at, January 2020.
 
 2. [Wie wir unbewusst dabei helfen, die Zukunft vorherzusagen](https://www.derstandard.at/story/2000112328813/wie-wir-unbewusst-dabei-helfen-die-zukunft-vorherzusagen). <br>
 On internet-based data sources. derStandard.at, December 2019.
