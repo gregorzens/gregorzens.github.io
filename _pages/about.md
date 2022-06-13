@@ -59,7 +59,7 @@ Master's Thesis.<br>
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Awards, Fellowships, Travel Grants </font></p>
-* [Best Student/Postdoc Contributed Paper Award](https://www.wu.ac.at/mobile-first/news/details/detail/gregor-zens-receives-best-studentpostdoc-contributed-paper-award), ISBA World Meeting 2022
+* [Best Student/Postdoc Contributed Paper Award](https://www.wu.ac.at/mobile-first/news/details/detail/gregor-zens-receives-best-studentpostdoc-contributed-paper-award), ISBA World Meeting 2021
 * [ISBA - EFaB Young Researcher Award](http://www.est.uc3m.es/BayesUC3M/ESOBE2021/Travel.htm), European Seminar on Bayesian Econometrics 2021
 * WU International Research Fellowship, 2021
 * Dissertation Fellowship of the Austrian Economic Association, 2020
