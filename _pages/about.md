@@ -66,7 +66,7 @@ Master's Thesis.<br>
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Software </font></p>
-* R Package 'UPG' for efficient Bayesian logistic regression, currently in v0.2.2.<br>
+* R Package 'UPG' for efficient Bayesian logistic regression, currently in v0.3.0.<br>
 ([link](https://cran.r-project.org/web/packages/UPG/UPG.pdf), [vignette](https://arxiv.org/abs/2101.02506))
 
 

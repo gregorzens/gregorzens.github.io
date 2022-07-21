@@ -26,6 +26,7 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'tzinfo'
   gem 'tzinfo-data', '~> 1.2021', '>= 1.2021.5'
+  gem 'jekyll-seo-tag'
 end
 
 gem "webrick", "~> 1.7"
