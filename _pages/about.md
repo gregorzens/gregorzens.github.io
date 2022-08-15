@@ -19,16 +19,19 @@ My main research interest lies in Bayesian statistics, with an emphasis on appli
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Selected Work-in-Progress  </font></p>
 
-1.  **Addressing Model Uncertainty in Generalized Linear Models using AutoRJMCMC**. <br>
+* **Dynamic Bayesian Modeling of Cause-Specific Mortality**. <br>
+with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University)
+
+* **Addressing Model Uncertainty in Generalized Linear Models using AutoRJMCMC**. <br>
 with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)
 
-2.  **Anticipating Humanitarian Needs of Climate Displaced Populations in Somalia**. <br>
+* **Anticipating Humanitarian Needs of Climate Displaced Populations in Somalia**. <br>
 with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (Princeton University)
 
-3.  **Analyzing Spatial Patterns of Household Survey Data Quality in Sub-Saharan Africa**. <br>
+* **Analyzing Spatial Patterns of Household Survey Data Quality in Sub-Saharan Africa**. <br>
 with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), [Valentin Seidler](https://www.wu.ac.at/economics/mitarbeiter-innen/seidler-v) (WU Vienna) and many more
 
-4. **Impact Evaluation of a Large Scale Female Entrepreneurship Program in Mexico**. <br>
+* **Impact Evaluation of a Large Scale Female Entrepreneurship Program in Mexico**. <br>
 with [Leonardo Iacovone](https://www.hertie-school.org/en/who-we-are/profile/person/iacovone) (World Bank, Hertie School) and [Michael Frese](https://asb.edu.my/faculty-research/our-faculty/asia-school-of-business-resident-faculty/michael-frese) (Asia School of Business)
 
 
@@ -66,7 +69,7 @@ Master's Thesis.<br>
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Software </font></p>
-* R Package 'UPG' for efficient Bayesian logistic regression, currently in v0.3.0.<br>
+* R Package 'UPG' for efficient Bayesian logistic regression, currently in v0.3.1.<br>
 ([link](https://cran.r-project.org/web/packages/UPG/UPG.pdf), [vignette](https://arxiv.org/abs/2101.02506))
 
 
@@ -85,7 +88,9 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences </font></p>
-
+* (UPCOMING) 1st Bergamo Workshop in Econometrics and Statistics. (Bergamo, 2022)
+* (UPCOMING) [SELECT Workshop 'Climbing Mortality Models'](https://selectprin.github.io/Meeting3.html). (Misurina, 2022)
+* (UPCOMING) eXplore! Workshop 'Migration Modelling and Climate Change Research'. (Vienna, 2022)
 * [ISBA World Meeting](https://isbawebmaster.github.io/ISBA2022/). (Montréal, 2022)
 * [Austrian & Slovenian Statistical Days](http://www.stat.tugraz.at/StatisticalDays2022/). Invited. (Graz, 2022)
 * [5th International Conference on Econometrics and Statistics](http://www.cmstatistics.org/EcoSta2022/). Invited. (Online, 2022)
