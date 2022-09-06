@@ -89,7 +89,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences </font></p>
 * (UPCOMING) 1st Bergamo Workshop in Econometrics and Statistics. (Bergamo, 2022)
-* (UPCOMING) [SELECT Workshop 'Climbing Mortality Models'](https://selectprin.github.io/Meeting3.html). (Misurina, 2022)
+* [SELECT Workshop 'Climbing Mortality Models'](https://selectprin.github.io/Meeting3.html). (Misurina, 2022)
 * [eXplore! Workshop 'Migration Modelling and Climate Change Research'](https://www.wu.ac.at/en/economics/event/workshop-on-migration/). (Vienna, 2022)
 * [ISBA World Meeting](https://isbawebmaster.github.io/ISBA2022/). (Montréal, 2022)
 * [Austrian & Slovenian Statistical Days](http://www.stat.tugraz.at/StatisticalDays2022/). Invited. (Graz, 2022)
