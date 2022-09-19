@@ -9,12 +9,12 @@ redirect_from:
 
 <p style = "margin-bottom:20px;"><font  size="7" >  Gregor Zens <br> </font> </p>
   
-I am a postdoctoral researcher at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://bidsa.unibocconi.eu/), where I work with [Daniele Durante](https://danieledurante.github.io/web/).  Previously, I worked as a postdoc at the Institute for Statistics and Mathematics at [WU Vienna](https://www.wu.ac.at/en/) with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I obtained my PhD in economics with a focus on Bayesian econometrics at [WU Vienna](https://www.wu.ac.at/en/), under the supervision of [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) and [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I have also served as a statistical consultant for the [International Bank of Reconstruction and Development](https://www.worldbank.org/en/who-we-are/ibrd) and the [International Finance Corporation](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home).
+I am a postdoctoral researcher at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://bidsa.unibocconi.eu/), where I work with [Daniele Durante](https://danieledurante.github.io/web/).  Previously, I worked as a postdoc at the Institute for Statistics and Mathematics at [WU Vienna](https://www.wu.ac.at/en/) with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I obtained my PhD in economics with a focus on Bayesian econometrics at [WU Vienna](https://www.wu.ac.at/en/), under the supervision of [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) and [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I have also served as a statistical consultant for the [International Bank of Reconstruction and Development](https://www.worldbank.org/en/who-we-are/ibrd) and the [International Finance Corporation](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home) within the [World Bank Group](https://www.worldbank.org/en/home).
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Focus  </font></p>
 
-My main research interest lies in Bayesian statistics, with an emphasis on applied probabilistic modeling and computational methods. I predominantly collaborate with statisticians, economists, climate researchers and demographers. See below for some on-going and past projects. 
+My main research interest lies in Bayesian statistics, with an emphasis on applied probabilistic modeling and computational methods. I predominantly collaborate with statisticians, economists, climate researchers and demographers, often in the context of economic development. See below for some on-going and past projects. 
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Selected Work-in-Progress  </font></p>
@@ -88,24 +88,24 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences </font></p>
-* (UPCOMING) 1st Bergamo Workshop in Econometrics and Statistics. (Bergamo, 2022)
-* [SELECT Workshop 'Climbing Mortality Models'](https://selectprin.github.io/Meeting3.html). (Misurina, 2022)
-* [eXplore! Workshop 'Migration Modelling and Climate Change Research'](https://www.wu.ac.at/en/economics/event/workshop-on-migration/). (Vienna, 2022)
-* [ISBA World Meeting](https://isbawebmaster.github.io/ISBA2022/). (Montréal, 2022)
-* [Austrian & Slovenian Statistical Days](http://www.stat.tugraz.at/StatisticalDays2022/). Invited. (Graz, 2022)
+* [1st Bergamo Workshop in Econometrics and Statistics](https://dse.unibg.it/it/eventi/workshop-bergamo-econometria-e-statistica-bwes). (Bergamo, Italy, 2022)
+* [SELECT Workshop 'Climbing Mortality Models'](https://selectprin.github.io/Meeting3.html). (Misurina, Italy, 2022)
+* [eXplore! Workshop 'Migration Modelling and Climate Change Research'](https://www.wu.ac.at/en/economics/event/workshop-on-migration/). (Vienna, Austria, 2022)
+* [ISBA World Meeting](https://isbawebmaster.github.io/ISBA2022/). (Montréal, Canada, 2022)
+* [Austrian & Slovenian Statistical Days](http://www.stat.tugraz.at/StatisticalDays2022/). Invited. (Graz, Austria, 2022)
 * [5th International Conference on Econometrics and Statistics](http://www.cmstatistics.org/EcoSta2022/). Invited. (Online, 2022)
 * [15th International Conference on Computational and Financial Econometrics](http://www.cfenetwork.org/CFE2021/). Invited. (Online, 2021)
 * [Bayesian Young Statisticians Meeting](https://events.stat.uconn.edu/BAYSM2021/). (Online, 2021)
-* [11th European Seminar on Bayesian Econometrics](http://www.est.uc3m.es/BayesUC3M/ESOBE2021/ESOBE2021.htm). (Madrid, 2021)
-* [ISBA Mirror Workshop @ CIRM](https://xianblog.wordpress.com/2021/05/10/isbcirm-through-the-looking-glass/). (Marseille, 2021)
+* [11th European Seminar on Bayesian Econometrics](http://www.est.uc3m.es/BayesUC3M/ESOBE2021/ESOBE2021.htm). (Madrid, Spain, 2021)
+* [ISBA Mirror Workshop @ CIRM](https://xianblog.wordpress.com/2021/05/10/isbcirm-through-the-looking-glass/). (Marseille, France, 2021)
 * [ISBA World Meeting](https://events.stat.uconn.edu/ISBA2021/). (Online, 2021)
 * [4th International Conference on Econometrics and Statistics](http://www.cmstatistics.org/EcoSta2021/). Invited. (Online, 2021)
 * [Annual Meeting of the Austrian Economic Association](https://www.uibk.ac.at/credence-goods/events/noeg-2021/). (Online, 2021)
 * [Bayes@Austria Workshop](https://bayes2020.wu.ac.at/). Invited. (Online, 2020)
-* Annual Meeting of the Austrian Economic Association. (Vienna, 2020)
-* [10th European Seminar on Bayesian Econometrics](https://sites.google.com/view/esobe2019/). (St. Andrews, 2019)
-* [3rd International Conference on Econometrics and Statistics](http://www.cmstatistics.org/EcoSta2019/). Invited. (Taichung, 2019)
-* 6th WU Workshop in Applied Econometrics (WUWAETRIX VI). (Vienna, 2018)
+* Annual Meeting of the Austrian Economic Association. (Vienna, Austria, 2020)
+* [10th European Seminar on Bayesian Econometrics](https://sites.google.com/view/esobe2019/). (St. Andrews, Scotland, 2019)
+* [3rd International Conference on Econometrics and Statistics](http://www.cmstatistics.org/EcoSta2019/). Invited. (Taichung, Taiwan, 2019)
+* 6th WU Workshop in Applied Econometrics (WUWAETRIX VI). (Vienna, Austria, 2018)
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Academic Visits </font></p>
