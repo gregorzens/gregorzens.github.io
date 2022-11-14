@@ -14,7 +14,7 @@ I am a postdoctoral researcher at the [Bocconi Institute for Data Science and An
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Focus  </font></p>
 
-My main research interest lies in Bayesian statistics and econometrics, with an emphasis on applied probabilistic modeling and computational methods. I predominantly collaborate with economists, statisticians, climate researchers and demographers, often focusing on applications connected to the field of development. See below for some on-going and past projects. 
+My main research interest lies in Bayesian econometrics and statistics, with an emphasis on applied probabilistic modeling and computational methods. I predominantly collaborate with economists, statisticians, climate researchers and demographers, preferably focusing on applications connected to the field of development. See below for some on-going and past projects. 
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Current Preprints  </font></p>
@@ -37,8 +37,8 @@ with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.
 * **Probabilistic Modeling of Conflict and Forced Displacement in Somalia**. <br>
 with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (Princeton University)
 
-* **Dynamic Bayesian Modeling of Cause-Specific Mortality**. <br>
-with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University)
+* **Bayesian Modeling of Crime Events in Montevideo**. <br>
+with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University), [Eleonora Patacchini](https://www.epatacchini.com/) (Cornell University) and [Carlos Díaz](https://sites.google.com/view/carlosddiaz) (Universidad Católica del Uruguay)
 
 * **Addressing Model Uncertainty in Generalized Linear Models using AutoRJMCMC**. <br>
 with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)
