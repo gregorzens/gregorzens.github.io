@@ -91,7 +91,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
-* Research Seminar, Department of Statistics, University of Bologna. (Bologna, Italy, 10/2022)
+* GENPOP/POPCLIMA Seminar Series, Department of Statistics, University of Bologna. (Bologna, Italy, 10/2022)
 * [1st Bergamo Workshop in Econometrics and Statistics](https://dse.unibg.it/it/eventi/workshop-bergamo-econometria-e-statistica-bwes). (Bergamo, Italy, 09/2022)
 * [SELECT Workshop 'Climbing Mortality Models'](https://selectprin.github.io/Meeting3.html). (Misurina, Italy, 08/2022)
 * [eXplore! Workshop 'Migration Modelling and Climate Change Research'](https://www.wu.ac.at/en/economics/event/past-events/workshop-on-migration/). (Vienna, Austria, 08/2022)
