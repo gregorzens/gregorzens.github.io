@@ -9,12 +9,12 @@ redirect_from:
 
 <p style = "margin-bottom:20px;"><font  size="7" >  Gregor Zens <br> </font> </p>
   
-I am a postdoctoral researcher at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://bidsa.unibocconi.eu/), where I work with [Daniele Durante](https://danieledurante.github.io/web/).  Previously, I worked as a postdoc at the Institute for Statistics and Mathematics at [WU Vienna](https://www.wu.ac.at/en/) with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I obtained my PhD in economics with a focus on Bayesian econometrics at [WU Vienna](https://www.wu.ac.at/en/), under the supervision of [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) and [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I have also served as a statistical consultant for the [International Bank of Reconstruction and Development](https://www.worldbank.org/en/who-we-are/ibrd) and the [International Finance Corporation](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home) within the [World Bank Group](https://www.worldbank.org/en/home).
+I am a research scholar at the [International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/), where I am part of the [Population and Just Societies (POPJUS)](https://iiasa.ac.at/programs/popjus) program. Previously, I worked at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://bidsa.unibocconi.eu/) with [Daniele Durante](https://danieledurante.github.io/web/) and at the Institute for Statistics and Mathematics at [WU Vienna](https://www.wu.ac.at/en/) with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I obtained my PhD in economics with a focus on Bayesian econometrics at [WU Vienna](https://www.wu.ac.at/en/), under the supervision of [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) and [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter) and have also served as a statistical consultant for the [International Bank of Reconstruction and Development](https://www.worldbank.org/en/who-we-are/ibrd) and the [International Finance Corporation](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home) within the [World Bank Group](https://www.worldbank.org/en/home).
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Focus  </font></p>
 
-My main research interest lies in Bayesian econometrics and statistics, with an emphasis on applied probabilistic modeling and computational methods. I predominantly collaborate with economists, statisticians, climate researchers and demographers, preferably focusing on applications connected to the field of development. See below for some on-going and past projects. 
+My research focus is on developing empirical models to analyze social science phenomena, often using Bayesian methods. I predominantly collaborate with economists, statisticians, climate researchers and demographers, preferably focusing on applications connected to human development. Methodologically, my main interest lies in econometrics and statistics, with an emphasis on applied probabilistic modeling and computational methods. See below for some on-going and past projects. 
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Current Preprints  </font></p>
@@ -34,13 +34,14 @@ with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cua
 with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), [Valentin Seidler](https://www.wu.ac.at/economics/mitarbeiter-innen/seidler-v) (WU Vienna) and many more<br>
 (Submitted)
 
-* **Probabilistic Modeling of Conflict and Forced Displacement in Somalia**. <br>
-with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (Princeton University)
+* **The Relationship Between Conflict and Displacement: Bayesian Modeling of Disaggregate Data From Somalia**. <br>
+with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (Princeton University, United Nations University)<br>
+(Submitted)
 
-* **Bayesian Modeling of Crime Events in Montevideo**. <br>
+* **Bayesian Network Modeling of Crime Data**. <br>
 with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University), [Eleonora Patacchini](https://www.epatacchini.com/) (Cornell University) and [Carlos Díaz](https://sites.google.com/view/carlosddiaz) (Universidad Católica del Uruguay)
 
-* **Addressing Model Uncertainty in Generalized Linear Models using AutoRJMCMC**. <br>
+* **Addressing Model Uncertainty in Latent Variable Network Models**. <br>
 with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)
 
 * **Impact Evaluation of a Large Scale Female Entrepreneurship Program in Mexico**. <br>
@@ -124,7 +125,6 @@ I have taught several B.Sc. level courses on basic econometrics and linear model
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Contact  </font></p>
-gregor.zens [at] unibocconi.it <br> 
-Bocconi Institute for Data Science and Analytics<br>
-Bocconi University<br>
-Via Roentgen, 1 - 20136 Milano, Italy. Office: 3C301
+zens [at] iiasa.ac.at <br> 
+International Institute for Applied Systems Analysis<br>
+Schlossplatz 1, 2361 Laxenburg

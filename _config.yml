@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gregor Zens"
 title_separator          : "-"
 name                     : &name "Gregor Zens"
-description              : &description "Postdoctoral Researcher, Bocconi Institute for Data Science and Analytics."
+description              : &description "Research Scholar, Institute for Applied Systems Analysis."
 url                      : https://gregorzens.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gregorzens/gregorzens.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gregor Zens"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher, Bocconi University."
-  location         : "Milan, Italy."
+  bio              : "Research Scholar<br>IIASA"
+  location         : "Laxenburg, Austria."
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : gregor.zens@unibocconi.it
+  email            : zens@iiasa.ac.at
   researchgate     : 
   uri              :
   bitbucket        :
