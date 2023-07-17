@@ -19,7 +19,7 @@ My research focus is on developing empirical models to analyze social science ph
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Current Preprints  </font></p>
 
-*  **Hidden in Plain Sight: Influential sets in linear regression models**. [[updated pdf](https://kuschnig.eu/files/paper-influence_wip.pdf), [WP](https://www.cesifo.org/en/publikationen/2021/working-paper/hidden-plain-sight-influential-sets-linear-models)]<br>
+*  **Hidden in Plain Sight: Influential sets in linear regression models**. [[updated pdf](https://kuschnig.eu/files/wp_influential-sets_wip.pdf), [WP](https://www.cesifo.org/en/publikationen/2021/working-paper/hidden-plain-sight-influential-sets-linear-models)]<br>
 with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) (WU Vienna).<br> 
 (Submitted)
 
