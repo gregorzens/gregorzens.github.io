@@ -19,19 +19,14 @@ My research focus is on developing empirical models to analyze social science ph
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Current Preprints  </font></p>
 
-1.  **Ultimate Pólya Gamma Samplers - Efficient MCMC for possibly imbalanced binary and categorical data**. [[pdf](https://arxiv.org/abs/2011.06898)] <br>
-with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter) (WU Vienna) and [Helga Wagner](https://www.jku.at/en/institute-of-applied-statistics/about/team/assoz-univ-profin-maga-drin-helga-wagner/) (JKU Linz).<br>
-(Revise and Resubmit, Journal of the American Statistical Association)
-
-2.  **Hidden in Plain Sight: Influential sets in linear regression models**. [[updated pdf](https://kuschnig.eu/files/paper-influence_wip.pdf), [WP](https://www.cesifo.org/en/publikationen/2021/working-paper/hidden-plain-sight-influential-sets-linear-models)]<br>
+*  **Hidden in Plain Sight: Influential sets in linear regression models**. [[updated pdf](https://kuschnig.eu/files/paper-influence_wip.pdf), [WP](https://www.cesifo.org/en/publikationen/2021/working-paper/hidden-plain-sight-influential-sets-linear-models)]<br>
 with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) (WU Vienna).<br> 
 (Submitted)
-
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Selected Work-in-Progress  </font></p>
 
 * **Analyzing Spatial Patterns of Household Survey Data Quality in Sub-Saharan Africa**.<br>
-with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), [Valentin Seidler](https://www.wu.ac.at/economics/mitarbeiter-innen/seidler-v) (WU Vienna) and many more<br>
+with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), [Valentin Seidler](https://www.wu.ac.at/economics/mitarbeiter-innen/seidler-v) (WU Vienna) and more<br>
 (Submitted)
 
 * **The Relationship Between Conflict and Displacement: Bayesian Modeling of Disaggregate Data From Somalia**. <br>
@@ -44,22 +39,22 @@ with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi Universit
 * **Addressing Model Uncertainty in Latent Variable Network Models**. <br>
 with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)
 
-* **Impact Evaluation of a Large Scale Female Entrepreneurship Program in Mexico**. <br>
-with [Leonardo Iacovone](https://www.hertie-school.org/en/who-we-are/profile/person/iacovone) (World Bank, Hertie School) and [Michael Frese](https://asb.edu.my/faculty-research/our-faculty/asia-school-of-business-resident-faculty/michael-frese) (Asia School of Business)
-
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications in Peer-Reviewed Journals </font></p>
-1.  **The heterogeneous impact of monetary policy on the US labor market**. [[link](https://www.sciencedirect.com/science/article/pii/S0165188920301573)] <br>
+
+1.  **Ultimate Pólya Gamma Samplers - Efficient MCMC for possibly imbalanced binary and categorical data**. [[pre-print](https://arxiv.org/abs/2011.06898)] <br>
+Accepted at the Journal of the American Statistical Association.<br>
+with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter) (WU Vienna) and [Helga Wagner](https://www.jku.at/en/institute-of-applied-statistics/about/team/assoz-univ-profin-maga-drin-helga-wagner/) (JKU Linz).<br>
+
+2.  **The heterogeneous impact of monetary policy on the US labor market**. [[link](https://www.sciencedirect.com/science/article/pii/S0165188920301573)] <br>
 Journal of Economic Dynamics and Control, 2020.<br>
 with [Maximilian Böck](https://maximilian-boeck.webflow.io/) (WU Vienna) and [Thomas Zörner](https://www.oenb.at/Geldpolitik/Forschung/Personen/thomas-zoerner.html) (WU Vienna).<br>
 
-
-2.  **Land and Poverty: The Role of Soil Fertility and Vegetation Quality in Poverty Reduction**. [[link](https://www.cambridge.org/core/journals/environment-and-development-economics/article/abs/land-and-poverty-the-role-of-soil-fertility-and-vegetation-quality-in-poverty-reduction/B273A7FD96ED768F7A50B5EFF03F94CE)] <br>
+3.  **Land and Poverty: The Role of Soil Fertility and Vegetation Quality in Poverty Reduction**. [[link](https://www.cambridge.org/core/journals/environment-and-development-economics/article/abs/land-and-poverty-the-role-of-soil-fertility-and-vegetation-quality-in-poverty-reduction/B273A7FD96ED768F7A50B5EFF03F94CE)] <br>
 Environment and Development Economics, 2020.<br>
 with [Martin Heger](https://blogs.worldbank.org/team/martin-heger) (World Bank) and [Mook Bangalore](https://www.lse.ac.uk/geography-and-environment/people/phd-students/mook-bangalore) (London School of Economics).<br>
 
-
-3.  **Bayesian Shrinkage in Mixture-of-Experts Models: Identifying Robust Determinants of Class Membership**. <br>
+4.  **Bayesian Shrinkage in Mixture-of-Experts Models: Identifying Robust Determinants of Class Membership**. <br>
 Advances in Data Analysis and Classification, 2019.<br>
 Master's Thesis.<br>
 
@@ -73,7 +68,7 @@ Master's Thesis.<br>
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Software </font></p>
-* R Package 'UPG' for efficient Bayesian logistic regression, currently in v0.3.1.<br>
+* R Package 'UPG' for efficient Bayesian logistic regression, currently in v0.3.2.<br>
 [[link](https://cran.r-project.org/web/packages/UPG/UPG.pdf), [vignette](https://arxiv.org/abs/2101.02506)]
 
 
@@ -92,6 +87,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [eXplore! Workshop 'Climate change, mobility and vulnerable populations in complex systems'](https://www.wu.ac.at/en/economics/news-vwl-special-pages/news-details-vwl/detail/tomorrow-12-july-2023-climate-change-mobility-and-vulnerable-populations-in-complex-systems/). (Vienna, Austria, 07/2023)
 * GENPOP/POPCLIMA Seminar Series, Department of Statistics, University of Bologna. (Bologna, Italy, 10/2022)
 * [1st Bergamo Workshop in Econometrics and Statistics](https://dse.unibg.it/it/eventi/workshop-bergamo-econometria-e-statistica-bwes). (Bergamo, Italy, 09/2022)
 * [SELECT Workshop 'Climbing Mortality Models'](https://selectprin.github.io/Meeting3.html). (Misurina, Italy, 08/2022)
