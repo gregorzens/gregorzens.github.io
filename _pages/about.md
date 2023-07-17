@@ -25,7 +25,7 @@ with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cua
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Selected Work-in-Progress  </font></p>
 
-* **Analyzing Spatial Patterns of Household Survey Data Quality in Sub-Saharan Africa**.<br>
+* **Subnational Variations in the Quality of Population Health Data: A Geospatial Analysis of Household Surveys in Africa**. [[WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419)] <br>
 with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), [Valentin Seidler](https://www.wu.ac.at/economics/mitarbeiter-innen/seidler-v) (WU Vienna) and more<br>
 (Submitted)
 
