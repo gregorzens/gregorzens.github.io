@@ -23,11 +23,11 @@ My research focus is on developing empirical models to analyze social science ph
 with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) (WU Vienna).<br> 
 (Submitted)
 
-<p style = "margin-bottom:5px;"> <font size="5" > <br>  Selected Work-in-Progress  </font></p>
-
 * **Subnational Variations in the Quality of Population Health Data: A Geospatial Analysis of Household Surveys in Africa**. [[WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419)] <br>
 with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), [Valentin Seidler](https://www.wu.ac.at/economics/mitarbeiter-innen/seidler-v) (WU Vienna) and more<br>
 (Submitted)
+
+<p style = "margin-bottom:5px;"> <font size="5" > <br>  Selected Work-in-Progress  </font></p>
 
 * **The Relationship Between Conflict and Displacement: Bayesian Modeling of Disaggregate Data From Somalia**. <br>
 with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (Princeton University, United Nations University)<br>
@@ -42,8 +42,8 @@ with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-resear
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications in Peer-Reviewed Journals </font></p>
 
-1.  **Ultimate Pólya Gamma Samplers - Efficient MCMC for possibly imbalanced binary and categorical data**. [[pre-print](https://arxiv.org/abs/2011.06898)] <br>
-Accepted at the Journal of the American Statistical Association.<br>
+1.  **Ultimate Pólya Gamma Samplers - Efficient MCMC for possibly imbalanced binary and categorical data**. [[link](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2259030), [pre-print](https://arxiv.org/abs/2011.06898)] <br>
+Journal of the American Statistical Association, in press.<br>
 with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter) (WU Vienna) and [Helga Wagner](https://www.jku.at/en/institute-of-applied-statistics/about/team/assoz-univ-profin-maga-drin-helga-wagner/) (JKU Linz).<br>
 
 2.  **The heterogeneous impact of monetary policy on the US labor market**. [[link](https://www.sciencedirect.com/science/article/pii/S0165188920301573)] <br>
@@ -68,7 +68,7 @@ Master's Thesis.<br>
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Software </font></p>
-* R Package 'UPG' for efficient Bayesian logistic regression, currently in v0.3.2.<br>
+* R Package 'UPG' for efficient Bayesian logistic regression, currently in v0.3.3.<br>
 [[link](https://cran.r-project.org/web/packages/UPG/UPG.pdf), [vignette](https://arxiv.org/abs/2101.02506)]
 
 
