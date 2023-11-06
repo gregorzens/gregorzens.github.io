@@ -56,7 +56,7 @@ with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (Prin
 with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University), [Eleonora Patacchini](https://www.epatacchini.com/) (Cornell University) and [Carlos Díaz](https://sites.google.com/view/carlosddiaz) (Universidad Católica del Uruguay)<br>
 (Draft available upon request)
 
-* **Addressing Model Uncertainty in Latent Variable Network Models**. <br>
+* **Addressing Model Uncertainty in Latent Variable Count Models**. <br>
 with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)<br>
 (Draft available upon request)
 
