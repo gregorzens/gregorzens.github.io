@@ -90,7 +90,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
 * [16th International Conference on Computational and Methodological Statistics](http://www.cmstatistics.org/CMStatistics2023/). (Berlin, Germany, 12/2023)
-* [Wittgenstein Centre Conference: Exploring Population Heterogeneities](https://www.oeaw.ac.at/vid/events/calendar/conferences/exploring-population-heterogeneities). (Vienna, Austria, 12/2023)
+* [Wittgenstein Centre Conference 'Exploring Population Heterogeneities'](https://www.oeaw.ac.at/vid/events/calendar/conferences/exploring-population-heterogeneities). (Vienna, Austria, 12/2023)
 * [Austrian Statistical Days](https://www.statistik.at/en/about-us/events/austrian-statistics-days-2023). (Vienna, Austria, 10/2023)
 * [eXplore! Workshop 'Climate change, mobility and vulnerable populations in complex systems'](https://www.wu.ac.at/en/economics/news-vwl-special-pages/news-details-vwl/detail/tomorrow-12-july-2023-climate-change-mobility-and-vulnerable-populations-in-complex-systems/). (Vienna, Austria, 07/2023)
 * GENPOP/POPCLIMA Seminar Series, Department of Statistics, University of Bologna. (Bologna, Italy, 10/2022)
