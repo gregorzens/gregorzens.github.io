@@ -17,8 +17,6 @@ I am a research scholar at the [International Institute for Applied Systems Anal
 My research focus is on developing empirical models to analyze social science phenomena, often using Bayesian methods. I predominantly collaborate with economists, statisticians, climate researchers and demographers, preferably focusing on applications connected to human development. Methodologically, my main interest lies in econometrics and statistics, with an emphasis on applied probabilistic modeling and computational methods. See below for some on-going and past projects. 
 
 
-
-
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications in Peer-Reviewed Journals </font></p>
 
 1.  **Ultimate Pólya Gamma Samplers - Efficient MCMC for possibly imbalanced binary and categorical data**. [[link](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2259030), [pre-print](https://arxiv.org/abs/2011.06898)] <br>
@@ -40,17 +38,18 @@ Master's Thesis.<br>
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Selected Work in Progress  </font></p>
 
+* **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[WP](https://pure.iiasa.ac.at/id/eprint/19415/)] <br>
+with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (Princeton University, United Nations University)<br>
+
+* **Bayesian Modeling of Demographic Data in Many Subpopulations**. [[arXiv](https://arxiv.org/abs/2401.08247)] <br>
+
 *  **Hidden in Plain Sight: Influential sets in linear regression models**. [[updated pdf](https://kuschnig.eu/files/wp_influential-sets_wip.pdf), [WP](https://www.cesifo.org/en/publikationen/2021/working-paper/hidden-plain-sight-influential-sets-linear-models)]<br>
 with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) (WU Vienna).<br> 
-
 
 * **Subnational Variations in the Quality of Population Health Data: A Geospatial Analysis of Household Surveys in Africa**. [[WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419)] <br>
 with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), [Valentin Seidler](https://www.wu.ac.at/economics/mitarbeiter-innen/seidler-v) (WU Vienna) and more<br>
 (In Revision)
 
-* **The Relationship Between Conflict and Displacement: Bayesian Modeling of Disaggregate Data From Somalia**. <br>
-with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (Princeton University, United Nations University)<br>
-(Draft available upon request)
 
 * **Bayesian Network Modeling of Crime Data**. <br>
 with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University), [Eleonora Patacchini](https://www.epatacchini.com/) (Cornell University) and [Carlos Díaz](https://sites.google.com/view/carlosddiaz) (Universidad Católica del Uruguay)<br>
