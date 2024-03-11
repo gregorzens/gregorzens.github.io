@@ -88,6 +88,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [IUSSP Workshop 'Population and Conflict'](https://iussp.org/en/workshop-population-and-conflict). (Southampton, England, 03/2024)
 * [16th International Conference on Computational and Methodological Statistics](http://www.cmstatistics.org/CMStatistics2023/). (Berlin, Germany, 12/2023)
 * [Wittgenstein Centre Conference 'Exploring Population Heterogeneities'](https://www.oeaw.ac.at/vid/events/calendar/conferences/exploring-population-heterogeneities). (Vienna, Austria, 12/2023)
 * [Austrian Statistical Days](https://www.statistik.at/en/about-us/events/austrian-statistics-days-2023). (Vienna, Austria, 10/2023)
