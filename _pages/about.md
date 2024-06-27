@@ -21,7 +21,7 @@ My research centers on creating empirical models to analyze social science pheno
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Pre-Prints, Selected Work in Progress  </font></p>
 
-* **Model Uncertainty in Latent Gaussian Models with Univariate Link Function**. [[arXiv](https://arxiv.org/abs/2406.17318), [R package](https://cran.r-project.org/web/packages/LatentBMA/index.html)] <br>
+* **Model Uncertainty in Latent Gaussian Models with Univariate Link Function**.<br> [[arXiv](https://arxiv.org/abs/2406.17318), [R package](https://cran.r-project.org/web/packages/LatentBMA/index.html)] <br>
 with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)<br>
 (Submitted)
 
