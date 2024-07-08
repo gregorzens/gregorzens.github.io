@@ -70,7 +70,7 @@ Master's Thesis.<br>
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Software </font></p>
-* R Package ``LatentBMA`` for model averaging in latent Gaussian models, currently in v0.1.0.<br>
+* R Package ``LatentBMA`` for model averaging in latent Gaussian models, currently in v0.1.1.<br>
 [[CRAN](https://cran.r-project.org/web/packages/LatentBMA/index.html), [vignette](https://cran.r-project.org/web/packages/LatentBMA/vignettes/LatentBMA_Vignette.html), [methods paper](https://arxiv.org/abs/2406.17318)]
 * R Package ``UPG`` for efficient Bayesian logistic regression, currently in v0.3.4.<br>
 [[CRAN](https://cran.r-project.org/web/packages/UPG/index.html), [vignette](https://arxiv.org/abs/2101.02506), [methods paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2259030)]
@@ -91,7 +91,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
-* [(Upcoming) ISBA World Meeting 2024](https://www.unive.it/web/en/2208/home). (Venice, 07/2024)
+* [ISBA World Meeting 2024](https://www.unive.it/web/en/2208/home). (Venice, 07/2024)
 * [European Population Conference 2024](https://epc2024.eaps.nl/). (Edinburgh, 06/2024)
 * [Austrian & Czech Statistical Days 2024](https://www.osg.or.at/main.asp?VID=1&kat1=108&kat2=1727&kat3=1617). (Vienna, 04/2024)
 * [IUSSP Workshop 'Population and Conflict'](https://iussp.org/en/workshop-population-and-conflict). (Southampton, 03/2024)
