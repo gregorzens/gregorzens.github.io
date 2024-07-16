@@ -25,7 +25,7 @@ My research centers on creating empirical models to analyze social science pheno
 with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)<br>
 (Submitted)
 
-* **Bayesian Modeling of Demographic Data in Many Subpopulations**. [[arXiv](https://arxiv.org/abs/2401.08247)] <br>
+* **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**. [[arXiv](https://arxiv.org/abs/2401.08247)] <br>
 (Submitted)
 
 * **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[WP](https://pure.iiasa.ac.at/id/eprint/19415/)] <br>
