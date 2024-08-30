@@ -28,10 +28,6 @@ with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-resear
 * **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**. [[arXiv](https://arxiv.org/abs/2401.08247)] <br>
 (Submitted)
 
-* **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[WP](https://pure.iiasa.ac.at/id/eprint/19415/)] <br>
-with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (Princeton University, United Nations University)<br>
-(In Revision)
-
 * **Subnational Variations in the Quality of Population Health Data: A Geospatial Analysis of Household Surveys in Africa**. [[WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419)] <br>
 with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), [Valentin Seidler](https://www.wu.ac.at/economics/mitarbeiter-innen/seidler-v) (WU Vienna) and more<br>
 (In Revision)
@@ -52,19 +48,23 @@ with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi Universit
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications in Peer-Reviewed Journals </font></p>
 
-1.  **Ultimate Pólya Gamma Samplers - Efficient MCMC for possibly imbalanced binary and categorical data**. [[journal](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2259030), [arXiv](https://arxiv.org/abs/2011.06898), [R package](https://cran.r-project.org/web/packages/UPG/index.html)] <br>
+* **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[Old WP Version](https://pure.iiasa.ac.at/id/eprint/19415/)] <br>
+The Annals of Applied Statistics, Accepted.<br>
+with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (United Nations University)<br>
+
+*  **Ultimate Pólya Gamma Samplers - Efficient MCMC for possibly imbalanced binary and categorical data**. [[journal](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2259030), [arXiv](https://arxiv.org/abs/2011.06898), [R package](https://cran.r-project.org/web/packages/UPG/index.html)] <br>
 Journal of the American Statistical Association, 2023.<br>
 with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter) (WU Vienna) and [Helga Wagner](https://www.jku.at/en/institute-of-applied-statistics/about/team/assoz-univ-profin-maga-drin-helga-wagner/) (JKU Linz).<br>
 
-2.  **The Heterogeneous Impact of Monetary Policy on the US Labor Market**. [[journal](https://www.sciencedirect.com/science/article/pii/S0165188920301573)] <br>
+*  **The Heterogeneous Impact of Monetary Policy on the US Labor Market**. [[journal](https://www.sciencedirect.com/science/article/pii/S0165188920301573)] <br>
 Journal of Economic Dynamics and Control, 2020.<br>
 with [Maximilian Böck](https://maximilian-boeck.webflow.io/) (WU Vienna) and [Thomas Zörner](https://www.oenb.at/Geldpolitik/Forschung/Personen/thomas-zoerner.html) (WU Vienna).<br>
 
-3.  **Land and Poverty: The Role of Soil Fertility and Vegetation Quality in Poverty Reduction**. [[journal](https://www.cambridge.org/core/journals/environment-and-development-economics/article/abs/land-and-poverty-the-role-of-soil-fertility-and-vegetation-quality-in-poverty-reduction/B273A7FD96ED768F7A50B5EFF03F94CE)] <br>
+*  **Land and Poverty: The Role of Soil Fertility and Vegetation Quality in Poverty Reduction**. [[journal](https://www.cambridge.org/core/journals/environment-and-development-economics/article/abs/land-and-poverty-the-role-of-soil-fertility-and-vegetation-quality-in-poverty-reduction/B273A7FD96ED768F7A50B5EFF03F94CE)] <br>
 Environment and Development Economics, 2020.<br>
 with [Martin Heger](https://blogs.worldbank.org/team/martin-heger) (World Bank) and [Mook Bangalore](https://www.lse.ac.uk/geography-and-environment/people/phd-students/mook-bangalore) (London School of Economics).<br>
 
-4.  **Bayesian Shrinkage in Mixture-of-Experts Models: Identifying Robust Determinants of Class Membership**. <br>
+*  **Bayesian Shrinkage in Mixture-of-Experts Models: Identifying Robust Determinants of Class Membership**. <br>
 Advances in Data Analysis and Classification, 2019.<br>
 Master's Thesis.<br>
 
