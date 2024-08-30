@@ -48,7 +48,7 @@ with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi Universit
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications in Peer-Reviewed Journals </font></p>
 
-* **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[Old WP Version](https://pure.iiasa.ac.at/id/eprint/19415/)] <br>
+* **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[older WP version](https://pure.iiasa.ac.at/id/eprint/19415/)] <br>
 The Annals of Applied Statistics, Accepted.<br>
 with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (United Nations University)<br>
 
