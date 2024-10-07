@@ -48,8 +48,10 @@ with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi Universit
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications in Peer-Reviewed Journals </font></p>
 
+**Articles**
+
 * **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[older WP version](https://pure.iiasa.ac.at/id/eprint/19415/)] <br>
-The Annals of Applied Statistics, Accepted.<br>
+The Annals of Applied Statistics, In Press.<br>
 with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (United Nations University)<br>
 
 *  **Ultimate Pólya Gamma Samplers - Efficient MCMC for possibly imbalanced binary and categorical data**. [[journal](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2259030), [arXiv](https://arxiv.org/abs/2011.06898), [R package](https://cran.r-project.org/web/packages/UPG/index.html)] <br>
@@ -68,6 +70,13 @@ with [Martin Heger](https://blogs.worldbank.org/team/martin-heger) (World Bank) 
 Advances in Data Analysis and Classification, 2019.<br>
 Master's Thesis.<br>
 
+**Discussions**
+
+* Discussion on **Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown** by Frühwirth-Schnatter S., Hosszejni D., and Freitas Lopes H. [[journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full?tab=ArticleLinkSupplemental)] <br>
+Bayesian Analysis, In Press.<br>
+with [Alejandra Avalos-Pacheco](https://sites.google.com/view/aleavalos/home) (JKU Linz) and [Roberta De Vito](https://vivo.brown.edu/display/rdevito) (Brown University)<br>
+
+
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Software </font></p>
 * R Package ``LatentBMA`` for model averaging in latent Gaussian models, currently in v0.1.1.<br>
@@ -80,13 +89,13 @@ Master's Thesis.<br>
 
 (In German only, sorry!)
 
-1. [Ausserirdische Ökonomische Daten](https://www.derstandard.at/story/2000113792650/ausserirdische-oekonomische-daten).<br>
+* [Ausserirdische Ökonomische Daten](https://www.derstandard.at/story/2000113792650/ausserirdische-oekonomische-daten).<br>
 On satellite-based economic research. derStandard.at, January 2020.
 
-2. [Wie wir unbewusst dabei helfen, die Zukunft vorherzusagen](https://www.derstandard.at/story/2000112328813/wie-wir-unbewusst-dabei-helfen-die-zukunft-vorherzusagen). <br>
+* [Wie wir unbewusst dabei helfen, die Zukunft vorherzusagen](https://www.derstandard.at/story/2000112328813/wie-wir-unbewusst-dabei-helfen-die-zukunft-vorherzusagen). <br>
 On internet-based data sources. derStandard.at, December 2019.
 
-3. [Soziale Leiter: Können Arme reich und Reiche arm werden?](https://www.derstandard.at/story/2000105962486/soziale-leiter-koennen-arme-reich-und-reiche-arm-werden).<br>
+* [Soziale Leiter: Können Arme reich und Reiche arm werden?](https://www.derstandard.at/story/2000105962486/soziale-leiter-koennen-arme-reich-und-reiche-arm-werden).<br>
 On social mobility perceptions. derStandard.at, July 2019.
 
 
