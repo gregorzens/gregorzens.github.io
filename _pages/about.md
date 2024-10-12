@@ -50,7 +50,7 @@ with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi Universit
 
 **Articles**
 
-* **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[older WP version](https://pure.iiasa.ac.at/id/eprint/19415/)] <br>
+* **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[pdf](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/63440?confirm=4c2e095d)] <br>
 The Annals of Applied Statistics, In Press.<br>
 with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (United Nations University)<br>
 
@@ -72,7 +72,7 @@ Master's Thesis.<br>
 
 **Discussions**
 
-* Discussion on **Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown** by Frühwirth-Schnatter S., Hosszejni D., and Freitas Lopes H. [[journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full?tab=ArticleLinkSupplemental)] <br>
+* Discussion on **Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown** by Frühwirth-Schnatter S., Hosszejni D., and Freitas Lopes H. [[journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)] <br>
 Bayesian Analysis, In Press.<br>
 with [Alejandra Avalos-Pacheco](https://sites.google.com/view/aleavalos/home) (JKU Linz) and [Roberta De Vito](https://vivo.brown.edu/display/rdevito) (Brown University)<br>
 
