@@ -9,14 +9,12 @@ redirect_from:
 
 <p style = "margin-bottom:20px;"><font  size="7" >  Gregor Zens <br> </font> </p>
   
-I am a research scholar at the [International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/), where I am part of the [Population and Just Societies (POPJUS)](https://iiasa.ac.at/programs/popjus) program. Previously, I worked at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://bidsa.unibocconi.eu/) with [Daniele Durante](https://danieledurante.github.io/web/) and at the Institute for Statistics and Mathematics at [WU Vienna](https://www.wu.ac.at/en/) with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I obtained my PhD in economics with a focus on Bayesian econometrics at [WU Vienna](https://www.wu.ac.at/en/), under the supervision of [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) and [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter) and have also served as a statistical consultant for the [International Bank of Reconstruction and Development](https://www.worldbank.org/en/who-we-are/ibrd) and the [International Finance Corporation](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home) within the [World Bank Group](https://www.worldbank.org/en/home).
+I work at the [International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/), where I am part of the [Population and Just Societies (POPJUS)](https://iiasa.ac.at/programs/popjus) program. Previously, I was affiliated with the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://bidsa.unibocconi.eu/) with [Daniele Durante](https://danieledurante.github.io/web/) and the Institute for Statistics and Mathematics at [WU Vienna](https://www.wu.ac.at/en/) with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I obtained my PhD in economics with a focus on Bayesian econometrics at [WU Vienna](https://www.wu.ac.at/en/), under the supervision of [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) and [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter) and have also served as a statistical consultant for the [International Bank of Reconstruction and Development](https://www.worldbank.org/en/who-we-are/ibrd) and the [International Finance Corporation](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home) within the [World Bank Group](https://www.worldbank.org/en/home).
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Focus  </font></p>
 
 My research centers on creating empirical models to analyze social science phenomena, frequently utilizing Bayesian methods. I work with economists, statisticians, climate researchers, and demographers, focusing on applications related to human migration and development issues. Methodologically, I am particularly interested in statistics and econometrics, with an emphasis on applied probabilistic modeling and computational techniques. Below are some of my ongoing and past projects.
-
-
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Pre-Prints, Selected Work in Progress  </font></p>
@@ -32,15 +30,9 @@ with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-resear
 with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), [Valentin Seidler](https://www.wu.ac.at/economics/mitarbeiter-innen/seidler-v) (WU Vienna) and more<br>
 (In Revision)
 
-* **Interrelated Drivers of Migration Intentions in Africa: Evidence from Afrobarometer Surveys**. <br>
-with [Roman Hoffmann](https://iiasa.ac.at/staff/roman-hoffmann) (IIASA / WIC)<br>
-(In Revision)
-
-
 *  **Hidden in Plain Sight: Influential sets in linear regression models**. [[updated pdf](https://kuschnig.eu/files/wp_influential-sets_wip.pdf), [WP](https://www.cesifo.org/en/publikationen/2021/working-paper/hidden-plain-sight-influential-sets-linear-models)]<br>
 with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) (WU Vienna).<br> 
 (Submitted)
-
 
 * **Bayesian Network Modeling of Crime Data**. <br>
 with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University), [Eleonora Patacchini](https://www.epatacchini.com/) (Cornell University) and [Carlos Díaz](https://sites.google.com/view/carlosddiaz) (Universidad Católica del Uruguay)<br>
@@ -49,6 +41,10 @@ with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi Universit
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications in Peer-Reviewed Journals </font></p>
 
 **Articles**
+
+* **Interrelated Drivers of Migration Intentions in Africa: Evidence from Afrobarometer Surveys**. <br>
+Environmental Development, In Press.<br>
+with [Roman Hoffmann](https://iiasa.ac.at/staff/roman-hoffmann) (IIASA / WIC)<br>
 
 * **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[pdf](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/63440?confirm=4c2e095d)]<br>
 The Annals of Applied Statistics, In Press.<br>
