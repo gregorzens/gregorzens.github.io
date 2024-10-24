@@ -98,6 +98,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [CPC-CG Research Seminar](https://www.cpc.ac.uk/). (Southampton, 10/2024)
 * [ISBA World Meeting 2024](https://www.unive.it/web/en/2208/home). (Venice, 07/2024)
 * [European Population Conference 2024](https://epc2024.eaps.nl/). (Edinburgh, 06/2024)
 * [Austrian & Czech Statistical Days 2024](https://www.osg.or.at/main.asp?VID=1&kat1=108&kat2=1727&kat3=1617). (Vienna, 04/2024)
