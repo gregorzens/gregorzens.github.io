@@ -44,8 +44,8 @@ with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi Universit
 
 **Articles**
 
-* **Interrelated Drivers of Migration Intentions in Africa: Evidence from Afrobarometer Surveys**. <br>
-Environmental Development, In Press.<br>
+* **Interrelated Drivers of Migration Intentions in Africa: Evidence from Afrobarometer Surveys**. [[journal](https://doi.org/10.1016/j.envdev.2024.101096)]<br>
+Environmental Development, 2024.<br>
 with [Roman Hoffmann](https://iiasa.ac.at/staff/roman-hoffmann) (IIASA / WIC)<br>
 
 * **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[pdf](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/63440?confirm=4c2e095d)]<br>
@@ -98,6 +98,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [IFAS Research Seminar](https://www.jku.at/institut-fuer-angewandte-statistik/news-events/aktuelles/detail/news/research-seminar-institute-for-applied-statistics-07-11-2024/). (Linz, 11/2024)
 * [CPC-CG Research Seminar](https://www.cpc.ac.uk/). (Southampton, 10/2024)
 * [ISBA World Meeting 2024](https://www.unive.it/web/en/2208/home). (Venice, 07/2024)
 * [European Population Conference 2024](https://epc2024.eaps.nl/). (Edinburgh, 06/2024)
