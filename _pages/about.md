@@ -98,6 +98,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [Complexity Science Hub Talk](https://csh.ac.at/events/the-short-term-dynamics-of-conflict-driven-displacement-bayesian-modeling-of-disaggregated-data-from-somalia/). (Vienna, 12/2024)
 * [IFAS Research Seminar](https://www.jku.at/institut-fuer-angewandte-statistik/news-events/aktuelles/detail/news/research-seminar-institute-for-applied-statistics-07-11-2024/). (Linz, 11/2024)
 * [CPC-CG Research Seminar](https://www.cpc.ac.uk/). (Southampton, 10/2024)
 * [ISBA World Meeting 2024](https://www.unive.it/web/en/2208/home). (Venice, 07/2024)
