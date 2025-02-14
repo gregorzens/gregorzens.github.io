@@ -9,27 +9,23 @@ redirect_from:
 
 <p style = "margin-bottom:20px;"><font  size="7" >  Gregor Zens <br> </font> </p>
   
-I am a research scholar at the [International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/), where I am part of the [Population and Just Societies (POPJUS)](https://iiasa.ac.at/programs/popjus) program. Previously, I worked at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://bidsa.unibocconi.eu/) with [Daniele Durante](https://danieledurante.github.io/web/) and at the Institute for Statistics and Mathematics at [WU Vienna](https://www.wu.ac.at/en/) with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I obtained my PhD in economics with a focus on Bayesian econometrics at [WU Vienna](https://www.wu.ac.at/en/), under the supervision of [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) and [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter) and have also served as a statistical consultant for the [International Bank of Reconstruction and Development](https://www.worldbank.org/en/who-we-are/ibrd) and the [International Finance Corporation](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home) within the [World Bank Group](https://www.worldbank.org/en/home).
+I am a affiliated with the [International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/), where I am part of the [Population and Just Societies (POPJUS)](https://iiasa.ac.at/programs/popjus) program. Previously, I worked at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://bidsa.unibocconi.eu/) with [Daniele Durante](https://danieledurante.github.io/web/) and at the Institute for Statistics and Mathematics at [WU Vienna](https://www.wu.ac.at/en/) with [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter). I obtained my PhD in economics with a focus on Bayesian econometrics at [WU Vienna](https://www.wu.ac.at/en/), under the supervision of [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) and [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/statmath/faculty-staff/faculty/sfruehwirthschnatter) and have also served as a statistical consultant for the [International Bank of Reconstruction and Development](https://www.worldbank.org/en/who-we-are/ibrd) and the [International Finance Corporation](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home) within the [World Bank Group](https://www.worldbank.org/en/home).
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Focus  </font></p>
 
 My research centers on creating empirical models to analyze social science phenomena, frequently utilizing Bayesian methods. I work with economists, statisticians, climate researchers, and demographers, focusing on applications related to human migration and development issues. Methodologically, I am particularly interested in statistics and econometrics, with an emphasis on applied probabilistic modeling and computational techniques. Below are some of my ongoing and past projects.
 
-
-
-
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Pre-Prints, Selected Work in Progress  </font></p>
 
-* **Model Uncertainty in Latent Gaussian Models with Univariate Link Function**.<br> [[arXiv](https://arxiv.org/abs/2406.17318), [R package](https://cran.r-project.org/web/packages/LatentBMA/index.html)] <br>
+* **Bayesian Matrix Factor Models for Demographic Analysis Across Age and Time**.<br>[[arXiv](https://arxiv.org/abs/2502.09255v1)] <br>
+(Submitted)
+
+* **Model Uncertainty in Latent Gaussian Models with Univariate Link Function**.<br>[[arXiv](https://arxiv.org/abs/2406.17318), [R package](https://cran.r-project.org/web/packages/LatentBMA/index.html)] <br>
 with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)<br>
 (Submitted)
 
 * **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**. [[arXiv](https://arxiv.org/abs/2401.08247)] <br>
-(Submitted)
-
-* **Subnational Variations in the Quality of Population Health Data: A Geospatial Analysis of Household Surveys in Africa**. [[WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419)] <br>
-with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), [Valentin Seidler](https://www.wu.ac.at/economics/mitarbeiter-innen/seidler-v) (WU Vienna) and more<br>
 (In Revision)
 
 *  **Hidden in Plain Sight: Influential sets in linear regression models**. [[updated pdf](https://kuschnig.eu/files/wp_influential-sets_wip.pdf), [WP](https://www.cesifo.org/en/publikationen/2021/working-paper/hidden-plain-sight-influential-sets-linear-models)]<br>
@@ -43,6 +39,10 @@ with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi Universit
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications in Peer-Reviewed Journals </font></p>
 
 **Articles**
+
+* **Subnational Variations in the Quality of Population Health Data: A Geospatial Analysis of Household Surveys in Africa**. [[old WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419)] <br>
+Nature Communications, Accepted.<br>
+with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Valentin Seidler](https://people.ceu.edu/valentin_seidler) (CEU), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), and more<br>
 
 * **Interrelated Drivers of Migration Intentions in Africa: Evidence from Afrobarometer Surveys**. [[journal](https://doi.org/10.1016/j.envdev.2024.101096)]<br>
 Environmental Development, 2024.<br>
