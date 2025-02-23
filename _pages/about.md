@@ -14,7 +14,7 @@ I am a affiliated with the [International Institute for Applied Systems Analysis
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Focus  </font></p>
 
-My research centers on creating empirical models to analyze social science phenomena, frequently utilizing Bayesian methods. I work with economists, statisticians, climate researchers, and demographers, focusing on applications related to human migration and development issues. Methodologically, I am particularly interested in statistics and econometrics, with an emphasis on applied probabilistic modeling and computational techniques. Below are some of my ongoing and past projects.
+My research focuses on developing and applying quantitative models to analyze social science phenomena. I collaborate with economists, climate researchers, and demographers, focusing on applications related to human mobility, statistical demography and development issues. Methodologically, I am particularly interested in Bayesian methods, with an emphasis on high-dimensional models and computational techniques. Below are some of my current and past projects.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Pre-Prints, Selected Work in Progress  </font></p>
 
@@ -147,7 +147,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Teaching & Thesis Supervision  </font></p>
 
-I have taught several undergraduate courses on basic econometrics and linear modeling, economic development, economic growth, and macroeconomic theory. Additionally, I have delivered graduate-level lectures on macroeconometric methods, focusing on Bayesian computation. I have also supervised several bachelor's and master's theses. Examples of past thesis topics include _"The importance of digitized government-to-person (G2P) payments for women's financial inclusion in developing countries"_ and _"Nowcasting GDP growth in Austria via the construction of a daily economic sentiment index using Google Trends"_.
+I have taught several undergraduate courses on econometrics, data science methods, economic development, economic growth, and macroeconomic theory. Additionally, I have delivered graduate-level lectures on macroeconometric methods, focusing on Bayesian computation. I have also supervised several bachelor's and master's theses. Examples of past thesis topics include _"The importance of digitized government-to-person (G2P) payments for women's financial inclusion in developing countries"_ and _"Nowcasting GDP growth in Austria via the construction of a daily economic sentiment index using Google Trends"_.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Contact  </font></p>
 zens [at] iiasa.ac.at <br> 
