@@ -44,7 +44,7 @@ with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi Universit
 Nature Communications, Accepted.<br>
 with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Valentin Seidler](https://people.ceu.edu/valentin_seidler) (CEU), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), and more<br>
 
-* **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[journal](https://doi.org/10.1214/24-AOAS1959), [pdf](https://github.com/gregorzens/gregorzens.github.io/blob/master/files/AOAS1959.pdf)]<br>
+* **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[journal](https://doi.org/10.1214/24-AOAS1959), [pdf](https://github.com/gregorzens/gregorzens.github.io/blob/master/files/AOAS1959.pdf?raw=true)]<br>
 The Annals of Applied Statistics, 2025.<br>
 with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (United Nations University)<br>
 
