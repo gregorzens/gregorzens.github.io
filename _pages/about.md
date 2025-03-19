@@ -44,13 +44,13 @@ with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi Universit
 Nature Communications, Accepted.<br>
 with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Valentin Seidler](https://people.ceu.edu/valentin_seidler) (CEU), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), and more<br>
 
+* **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[journal](https://doi.org/10.1214/24-AOAS1959)]<br>
+The Annals of Applied Statistics, 2025.<br>
+with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (United Nations University)<br>
+
 * **Interrelated Drivers of Migration Intentions in Africa: Evidence from Afrobarometer Surveys**. [[journal](https://doi.org/10.1016/j.envdev.2024.101096)]<br>
 Environmental Development, 2024.<br>
 with [Roman Hoffmann](https://iiasa.ac.at/staff/roman-hoffmann) (IIASA / WIC)<br>
-
-* **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[pdf](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/63440?confirm=4c2e095d)]<br>
-The Annals of Applied Statistics, In Press.<br>
-with [Lisa Thalheimer](https://cpree.princeton.edu/people/lisa-thalheimer) (United Nations University)<br>
 
 *  **Ultimate Pólya Gamma Samplers - Efficient MCMC for possibly imbalanced binary and categorical data**. [[journal](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2259030), [arXiv](https://arxiv.org/abs/2011.06898), [R package](https://cran.r-project.org/web/packages/UPG/index.html)] <br>
 Journal of the American Statistical Association, 2023.<br>
