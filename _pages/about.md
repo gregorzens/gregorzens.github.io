@@ -71,7 +71,7 @@ Master's Thesis.<br>
 **Discussions**
 
 * Discussion on **Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown** by Frühwirth-Schnatter S., Hosszejni D., and Freitas Lopes H. [[journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)] <br>
-Bayesian Analysis, In Press.<br>
+Bayesian Analysis, 2025.<br>
 with [Alejandra Avalos-Pacheco](https://sites.google.com/view/aleavalos/home) (JKU Linz) and [Roberta De Vito](https://vivo.brown.edu/display/rdevito) (Brown University)<br>
 
 
