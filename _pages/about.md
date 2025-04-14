@@ -23,7 +23,7 @@ My research focuses on developing and applying quantitative models to analyze so
 
 * **Model Uncertainty in Latent Gaussian Models with Univariate Link Function**.<br>[[arXiv](https://arxiv.org/abs/2406.17318), [R package](https://cran.r-project.org/web/packages/LatentBMA/index.html)] <br>
 with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)<br>
-(In Revision)
+(Revision Submitted)
 
 * **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**. [[arXiv](https://arxiv.org/abs/2401.08247)] <br>
 (Revision Submitted)
@@ -98,6 +98,8 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [PAA 2025 Annual Meeting](https://www.populationassociation.org/paa2025/home). (Washington, D.C., 04/2025)
+* [Bayesian Young Statisticians Meeting 2025](https://baysm2025.github.io/). (Online, 04/2025)
 * [Complexity Science Hub Talk](https://csh.ac.at/events/the-short-term-dynamics-of-conflict-driven-displacement-bayesian-modeling-of-disaggregated-data-from-somalia/). (Vienna, 12/2024)
 * [IFAS Research Seminar](https://www.jku.at/institut-fuer-angewandte-statistik/news-events/aktuelles/detail/news/research-seminar-institute-for-applied-statistics-07-11-2024/). (Linz, 11/2024)
 * [CPC-CG Research Seminar](https://www.cpc.ac.uk/). (Southampton, 10/2024)
