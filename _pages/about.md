@@ -28,7 +28,7 @@ with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-resear
 * **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**. [[arXiv](https://arxiv.org/abs/2401.08247)] <br>
 (Revision Submitted)
 
-* **Low-rank Bilinear Autoregressive Models for Three-Way Criminal Activity Tensors**. [[arXiv](https://arxiv.org/abs/2505.01166)] <br>
+* **Low-Rank Bilinear Autoregressive Models for Three-Way Criminal Activity Tensors**. [[arXiv](https://arxiv.org/abs/2505.01166)] <br>
 with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University), [Eleonora Patacchini](https://www.epatacchini.com/) (Cornell University) and [Carlos Díaz](https://sites.google.com/view/carlosddiaz) (Universidad Católica del Uruguay)<br>
 (Submitted)
 
