@@ -19,7 +19,7 @@ My research focuses on developing and applying quantitative models to analyze so
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Pre-Prints, Selected Work in Progress  </font></p>
 
 * **Bayesian Matrix Factor Models for Demographic Analysis Across Age and Time**.<br>[[arXiv](https://arxiv.org/abs/2502.09255v1)] <br>
-(Submitted)
+(In Revision)
 
 * **Model Uncertainty in Latent Gaussian Models with Univariate Link Function**.<br>[[arXiv](https://arxiv.org/abs/2406.17318), [R package](https://cran.r-project.org/web/packages/LatentBMA/index.html)] <br>
 with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)<br>
@@ -28,20 +28,20 @@ with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-resear
 * **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**. [[arXiv](https://arxiv.org/abs/2401.08247)] <br>
 (Revision Submitted)
 
-*  **Hidden in Plain Sight: Influential sets in linear regression models**. [[updated pdf](https://kuschnig.eu/files/wp_influential-sets_wip.pdf), [WP](https://www.cesifo.org/en/publikationen/2021/working-paper/hidden-plain-sight-influential-sets-linear-models)]<br>
-with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) (WU Vienna).<br> 
+* **Low-rank Bilinear Autoregressive Models for Three-Way Criminal Activity Tensors**. [[arXiv](https://arxiv.org/abs/2505.01166)] <br>
+with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University), [Eleonora Patacchini](https://www.epatacchini.com/) (Cornell University) and [Carlos Díaz](https://sites.google.com/view/carlosddiaz) (Universidad Católica del Uruguay)<br>
 (Submitted)
 
-* **Bayesian Network Modeling of Crime Data**. <br>
-with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University), [Eleonora Patacchini](https://www.epatacchini.com/) (Cornell University) and [Carlos Díaz](https://sites.google.com/view/carlosddiaz) (Universidad Católica del Uruguay)<br>
+*  **Hidden in Plain Sight: Influential sets in linear regression models**. [[updated pdf](https://kuschnig.eu/files/wp_influential-sets_wip.pdf), [WP](https://www.cesifo.org/en/publikationen/2021/working-paper/hidden-plain-sight-influential-sets-linear-models)]<br>
+with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) (WU Vienna).<br> 
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications in Peer-Reviewed Journals </font></p>
 
 **Articles**
 
-* **Subnational Variations in the Quality of Population Health Data: A Geospatial Analysis of Household Surveys in Africa**. [[old WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419)] <br>
-Nature Communications, Accepted.<br>
+* **Subnational Variations in the Quality of Population Health Data: A Geospatial Analysis of Household Surveys in Africa**. [[journal](https://www.nature.com/articles/s41467-025-58776-5), [old WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419)] <br>
+Nature Communications, 2025.<br>
 with [Andrew Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page) (University of Southampton, WorldPop), [Valentin Seidler](https://people.ceu.edu/valentin_seidler) (CEU), [Patrick Webb](https://nutrition.tufts.edu/profile/faculty/patrick-webb) (Tufts University), [Amelia Finaret](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/) (Allegheny College), and more<br>
 
 * **The Short-Term Dynamics of Conflict-Driven Displacement: Bayesian Modeling of Disaggregated Data from Somalia**. [[journal](https://doi.org/10.1214/24-AOAS1959), [pdf](https://github.com/gregorzens/gregorzens.github.io/blob/master/files/AOAS1959.pdf?raw=true)]<br>
@@ -75,9 +75,8 @@ Bayesian Analysis, 2025.<br>
 with [Alejandra Avalos-Pacheco](https://sites.google.com/view/aleavalos/home) (JKU Linz) and [Roberta De Vito](https://vivo.brown.edu/display/rdevito) (Brown University)<br>
 
 
-
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Software </font></p>
-* R Package ``LatentBMA`` for model averaging in latent Gaussian models, currently in v0.1.1.<br>
+* R Package ``LatentBMA`` for model averaging in latent Gaussian models, currently in v0.1.2.<br>
 [[CRAN](https://cran.r-project.org/web/packages/LatentBMA/index.html), [vignette](https://cran.r-project.org/web/packages/LatentBMA/vignettes/LatentBMA_Vignette.html), [methods paper](https://arxiv.org/abs/2406.17318)]
 * R Package ``UPG`` for efficient Bayesian logistic regression, currently in v0.3.4.<br>
 [[CRAN](https://cran.r-project.org/web/packages/UPG/index.html), [vignette](https://arxiv.org/abs/2101.02506), [methods paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2259030)]
