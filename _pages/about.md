@@ -25,9 +25,6 @@ My research focuses on developing and applying quantitative models to analyze so
 with [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)<br>
 (Revision Submitted)
 
-* **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**. [[arXiv](https://arxiv.org/abs/2401.08247)] <br>
-(Revision Submitted)
-
 * **Low-Rank Bilinear Autoregressive Models for Three-Way Criminal Activity Tensors**. [[arXiv](https://arxiv.org/abs/2505.01166)] <br>
 with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University), [Eleonora Patacchini](https://www.epatacchini.com/) (Cornell University) and [Carlos Díaz](https://sites.google.com/view/carlosddiaz) (Universidad Católica del Uruguay)<br>
 (Submitted)
@@ -39,6 +36,9 @@ with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cua
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications in Peer-Reviewed Journals </font></p>
 
 **Articles**
+
+* **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**. [[arXiv](https://arxiv.org/abs/2401.08247)] <br>
+Journal of the Royal Statistical Society: Series A, Accepted.<br>
 
 * **Subnational Variations in the Quality of Population Health Data: A Geospatial Analysis of Household Surveys in Africa**. [[journal](https://www.nature.com/articles/s41467-025-58776-5), [old WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419)] <br>
 Nature Communications, 2025.<br>
