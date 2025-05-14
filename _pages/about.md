@@ -38,7 +38,7 @@ with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cua
 **Articles**
 
 * **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**. [[arXiv](https://arxiv.org/abs/2401.08247)] <br>
-Journal of the Royal Statistical Society: Series A, Accepted.<br>
+Journal of the Royal Statistical Society, Series A (Statistics in Society), Accepted.<br>
 
 * **Subnational Variations in the Quality of Population Health Data: A Geospatial Analysis of Household Surveys in Africa**. [[journal](https://www.nature.com/articles/s41467-025-58776-5), [old WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419)] <br>
 Nature Communications, 2025.<br>
