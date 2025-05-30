@@ -66,7 +66,7 @@ with [Martin Heger](https://blogs.worldbank.org/team/martin-heger) (World Bank) 
 
 *  **Bayesian Shrinkage in Mixture-of-Experts Models: Identifying Robust Determinants of Class Membership**. <br>
 Advances in Data Analysis and Classification, 2019.<br>
-Master's Thesis.<br>
+<br>
 
 **Discussions**
 
@@ -97,6 +97,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [8th Symposium on Games and Decisions in Reliability and Risk](https://dec.unibocconi.eu/8GDRR). (Milan, 05/2025)
 * [PAA 2025 Annual Meeting](https://www.populationassociation.org/paa2025/home). (Washington, D.C., 04/2025)
 * [Bayesian Young Statisticians Meeting 2025](https://baysm2025.github.io/). (Online, 04/2025)
 * [Complexity Science Hub Talk](https://csh.ac.at/events/the-short-term-dynamics-of-conflict-driven-displacement-bayesian-modeling-of-disaggregated-data-from-somalia/). (Vienna, 12/2024)
