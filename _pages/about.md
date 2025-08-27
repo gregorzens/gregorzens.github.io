@@ -23,6 +23,10 @@ My research focuses on developing and applying quantitative models to analyze so
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Preprints and Selected Work in Progress </font></p>
 
+* **Dynamic Count Models with Flexible Innovation Processes for Irregular Maritime Migration**.<br>
+with [Jakub Bijak](https://www.southampton.ac.uk/people/5x6dng/professor-jakub-bijak) (University of Southampton)<br>
+[[arXiv](https://arxiv.org/abs/2508.18716)]
+
 * **Bayesian Matrix Factor Models for Demographic Analysis Across Age and Time**.<br>
 [[arXiv](https://arxiv.org/abs/2502.09255v1)]
 
@@ -40,13 +44,13 @@ with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cua
 
 * **Model Uncertainty in Latent Gaussian Models with Univariate Link Function**.<br>
 M.F.J. Steel and G. Zens (2025+).<br>
-Bayesian Analysis, Accepted.<br>
-[[arXiv](https://arxiv.org/abs/2406.17318), [R package](https://cran.r-project.org/web/packages/LatentBMA/index.html)]
+Bayesian Analysis.<br>
+[[journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Model-Uncertainty-in-Latent-Gaussian-Models-with-Univariate-Link-Function/10.1214/25-BA1538.full), [arXiv](https://arxiv.org/abs/2406.17318), [R package](https://cran.r-project.org/web/packages/LatentBMA/index.html)]
 
 * **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**.<br>
-G. Zens (2025+).<br>
-Journal of the Royal Statistical Society, Series A (Statistics in Society), Accepted.<br>
-[[arXiv](https://arxiv.org/abs/2401.08247)]
+G. Zens (2025).<br>
+Journal of the Royal Statistical Society, Series A (Statistics in Society).<br>
+[[journal](https://doi.org/10.1093/jrsssa/qnaf062), [arXiv](https://arxiv.org/abs/2401.08247)]
 
 * **Subnational Variations in the Quality of Household Survey Data in Sub-Saharan Africa**.<br>
 V. Seidler, E. C. Utazi, A. B. Finaret, S. Luckeneder, G. Zens, ... &  P. Webb (2025).<br>
@@ -111,6 +115,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [Workshop 'Climbing Mortality Models II'](https://danieledurante.github.io/web/meetings/meeting_CARONTE_3.html). (Misurina, 08/2025)
 * [8th Symposium on Games and Decisions in Reliability and Risk](https://dec.unibocconi.eu/8GDRR). (Milan, 05/2025)
 * [PAA 2025 Annual Meeting](https://www.populationassociation.org/paa2025/home). (Washington, D.C., 04/2025)
 * [Bayesian Young Statisticians Meeting 2025](https://baysm2025.github.io/). (Online, 04/2025)
@@ -127,7 +132,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 * [eXplore! Workshop 'Climate change, mobility and vulnerable populations in complex systems'](https://www.wu.ac.at/en/economics/news-vwl-special-pages/news-details-vwl/detail/tomorrow-12-july-2023-climate-change-mobility-and-vulnerable-populations-in-complex-systems/). (Vienna, 07/2023)
 * GENPOP/POPCLIMA Seminar Series, Department of Statistics, University of Bologna. (Bologna, 10/2022)
 * [1st Bergamo Workshop in Econometrics and Statistics](https://dse.unibg.it/it/eventi/workshop-bergamo-econometria-e-statistica-bwes). (Bergamo, 09/2022)
-* [SELECT Workshop 'Climbing Mortality Models'](https://selectprin.github.io/Meeting3.html). (Misurina, 08/2022)
+* [Workshop 'Climbing Mortality Models'](https://selectprin.github.io/Meeting3.html). (Misurina, 08/2022)
 * [eXplore! Workshop 'Migration Modelling and Climate Change Research'](https://www.wu.ac.at/en/economics/event/past-events/workshop-on-migration/). (Vienna, 08/2022)
 * [ISBA World Meeting 2022](https://isbawebmaster.github.io/ISBA2022/). (Montréal, 06/2022)
 * [Austrian & Slovenian Statistical Days 2022](http://www.stat.tugraz.at/StatisticalDays2022/). (Graz, 04/2022)
