@@ -19,7 +19,7 @@ I am affiliated with the [International Institute for Applied Systems Analysis (
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Focus  </font></p>
 
-My research focuses on developing and applying quantitative models to analyze social science phenomena. I collaborate with economists, climate researchers, and demographers, focusing on applications related to human mobility, statistical demography and development issues. Methodologically, I am particularly interested in Bayesian methods, with an emphasis on high-dimensional models and computational techniques. Below are some of my current and past projects.
+My research focuses on developing and applying statistical methods for high-dimensional and structured data, motivated by questions in human mobility, demography, and the social sciences more broadly. Methodologically, I am particularly interested in Bayesian statistics, with an emphasis on computational techniques, scalable inference, and interpretable modeling. I collaborate closely with economists, sociologists, demographers, and climate scientists, and translate my work into practice through open-source R packages. Below are some of my current and past projects.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Preprints and Selected Work in Progress </font></p>
 
@@ -35,7 +35,7 @@ with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi Universit
 [[arXiv](https://arxiv.org/abs/2505.01166)]<br>
 
 *  **Hidden in Plain Sight: Influential Sets in Linear Regression Models**.<br>
-with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) (WU Vienna).<br> 
+with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) (WU Vienna)<br> 
 [[updated pdf](https://kuschnig.eu/files/wp_influential-sets_wip.pdf), [WP](https://www.cesifo.org/en/publikationen/2021/working-paper/hidden-plain-sight-influential-sets-linear-models)]
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Peer-Reviewed Publications </font></p>
@@ -43,7 +43,7 @@ with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cua
 **Journal Articles**
 
 * **Model Uncertainty in Latent Gaussian Models with Univariate Link Function**.<br>
-M.F.J. Steel and G. Zens (2025+).<br>
+M.F.J. Steel and G. Zens (2025).<br>
 Bayesian Analysis.<br>
 [[journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Model-Uncertainty-in-Latent-Gaussian-Models-with-Univariate-Link-Function/10.1214/25-BA1538.full), [arXiv](https://arxiv.org/abs/2406.17318), [R package](https://cran.r-project.org/web/packages/LatentBMA/index.html)]
 
@@ -79,7 +79,7 @@ Journal of Economic Dynamics and Control, 119, 103989.<br>
 
 *  **Land and Poverty: The Role of Soil Fertility and Vegetation Quality in Poverty Reduction**.<br>
 M. P. Heger, G. Zens & M. Bangalore (2020).<br>
-Environment and development economics, 25(4), 315-333.<br>
+Environment and Development Economics, 25(4), 315-333.<br>
 [[journal](https://www.cambridge.org/core/journals/environment-and-development-economics/article/abs/land-and-poverty-the-role-of-soil-fertility-and-vegetation-quality-in-poverty-reduction/B273A7FD96ED768F7A50B5EFF03F94CE)]
 
 *  **Bayesian Shrinkage in Mixture-of-Experts Models: Identifying Robust Determinants of Class Membership**.<br>
@@ -105,16 +105,17 @@ Bayesian Analysis, 20(1): 213-344.<br>
 (In German only, sorry!)
 
 * [Ausserirdische Ökonomische Daten](https://www.derstandard.at/story/2000113792650/ausserirdische-oekonomische-daten).<br>
-On satellite-based economic research. derStandard.at, January 2020.
+On satellite-based economic research. derStandard.at, 01/2020.
 
 * [Wie wir unbewusst dabei helfen, die Zukunft vorherzusagen](https://www.derstandard.at/story/2000112328813/wie-wir-unbewusst-dabei-helfen-die-zukunft-vorherzusagen). <br>
-On internet-based data sources. derStandard.at, December 2019.
+On internet-based data sources. derStandard.at, 12/2019.
 
 * [Soziale Leiter: Können Arme reich und Reiche arm werden?](https://www.derstandard.at/story/2000105962486/soziale-leiter-koennen-arme-reich-und-reiche-arm-werden).<br>
-On social mobility perceptions. derStandard.at, July 2019.
+On social mobility perceptions. derStandard.at, 07/2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [Austrian & Czech Statistical Days 2025](https://conferences.jku.at/statdays/content/home). (Linz, 09/2025)
 * [Workshop 'Climbing Mortality Models II'](https://danieledurante.github.io/web/meetings/meeting_CARONTE_3.html). (Misurina, 08/2025)
 * [8th Symposium on Games and Decisions in Reliability and Risk](https://dec.unibocconi.eu/8GDRR). (Milan, 05/2025)
 * [PAA 2025 Annual Meeting](https://www.populationassociation.org/paa2025/home). (Washington, D.C., 04/2025)
@@ -160,7 +161,6 @@ On social mobility perceptions. derStandard.at, July 2019.
 * Dissertation Fellowship of the Austrian Economic Association, 2020
 
 
-
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Academic Visits </font></p>
 
 * [Department of Statistics, University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). Hosted by [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/). 09/2021.
@@ -168,7 +168,7 @@ On social mobility perceptions. derStandard.at, July 2019.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Teaching & Thesis Supervision  </font></p>
 
-I have taught several undergraduate courses on econometrics, data science methods, economic development, economic growth, and macroeconomic theory. Additionally, I have delivered graduate-level lectures on macroeconometric methods, focusing on Bayesian computation. I have also supervised several bachelor's and master's theses and regularly supervise PhD students in the course of academic summer programs. Examples of past thesis topics include _"The importance of digitized government-to-person (G2P) payments for women's financial inclusion in developing countries"_ and _"Nowcasting GDP growth in Austria via the construction of a daily economic sentiment index using Google Trends"_.
+I have taught several undergraduate courses on econometrics, data science methods, economic development, economic growth, and macroeconomic theory, and I have delivered graduate-level lectures on macroeconometric methods with a focus on Bayesian computation. I supervise Bachelor’s and Master’s theses and regularly mentor PhD students in summer programs. Examples of past thesis topics include _"The importance of digitized government-to-person (G2P) payments for women's financial inclusion in developing countries"_ and _"Nowcasting GDP growth in Austria via the construction of a daily economic sentiment index using Google Trends"_.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Contact  </font></p>
 zens [at] iiasa.ac.at <br> 
