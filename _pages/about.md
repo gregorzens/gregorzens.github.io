@@ -23,6 +23,10 @@ My research focuses on developing and applying statistical methods for high-dime
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Preprints and Selected Work in Progress </font></p>
 
+* **Scalable Variable Selection and Model Averaging for Latent Regression Models Using Approximate Variational Bayes**.<br>
+with [Mark F.J. Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)<br>
+[[arXiv](https://arxiv.org/abs/2509.11751)]
+
 * **Dynamic Count Models with Flexible Innovation Processes for Irregular Maritime Migration**.<br>
 with [Jakub Bijak](https://www.southampton.ac.uk/people/5x6dng/professor-jakub-bijak) (University of Southampton)<br>
 [[arXiv](https://arxiv.org/abs/2508.18716)]
@@ -88,7 +92,11 @@ Advances in Data Analysis and Classification, 13(4), 1019-1051.
 
 **Discussions**
 
-* Discussion on **Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown** by Frühwirth-Schnatter S., Hosszejni D., and Freitas Lopes H.<br>
+* Discussion on **Model Uncertainty and Missing Data: An Objective Bayesian Perspective** by García-Donato et al.<br>
+M.F.J. Steel & G. Zens (2025+).<br>
+Bayesian Analysis, To Appear.<br>
+
+* Discussion on **Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown** by Frühwirth-Schnatter et al.<br>
 A. Avalos-Pacheco,  R. de Vito, & G. Zens (2025).<br>
 Bayesian Analysis, 20(1): 213-344.<br>
 [[journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)] 
@@ -96,7 +104,7 @@ Bayesian Analysis, 20(1): 213-344.<br>
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Software </font></p>
 * R Package ``LatentBMA`` for model averaging in latent Gaussian models, currently in v0.1.2.<br>
 [[CRAN](https://cran.r-project.org/web/packages/LatentBMA/index.html), [vignette](https://cran.r-project.org/web/packages/LatentBMA/vignettes/LatentBMA_Vignette.html), [methods paper](https://arxiv.org/abs/2406.17318)]
-* R Package ``UPG`` for efficient Bayesian logistic regression, currently in v0.3.4.<br>
+* R Package ``UPG`` for efficient Bayesian logistic regression, currently in v0.3.5.<br>
 [[CRAN](https://cran.r-project.org/web/packages/UPG/index.html), [vignette](https://arxiv.org/abs/2101.02506), [methods paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2259030)]
 
 
