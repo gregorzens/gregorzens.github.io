@@ -19,7 +19,7 @@ I am affiliated with the [International Institute for Applied Systems Analysis (
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Focus  </font></p>
 
-My research focuses on developing and applying statistical methods for high-dimensional and structured data, motivated by questions in human mobility, demography, and the social sciences more broadly. Methodologically, I am particularly interested in Bayesian statistics, with an emphasis on computational techniques, scalable inference, and interpretable modeling. I collaborate closely with economists, sociologists, demographers, and climate scientists, and translate my work into practice through open-source R packages. Below are some of my current and past projects.
+My research focuses on developing and applying statistical methods for high-dimensional and structured data, motivated by questions in human mobility, demography, and the social sciences more broadly, with the aim of providing evidence-based insights for decision support. Methodologically, I am particularly interested in Bayesian statistics, with an emphasis on computational techniques, scalable probabilistic inference, and interpretable modeling. I collaborate closely with economists, sociologists, demographers, and climate scientists, and translate my work into practice through open-source R packages. Below are some of my current and past projects.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Preprints and Selected Work in Progress </font></p>
 
@@ -48,12 +48,12 @@ with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cua
 
 * **Model Uncertainty in Latent Gaussian Models with Univariate Link Function**.<br>
 M.F.J. Steel and G. Zens (2025).<br>
-Bayesian Analysis.<br>
+Bayesian Analysis, Forthcoming.<br>
 [[journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Model-Uncertainty-in-Latent-Gaussian-Models-with-Univariate-Link-Function/10.1214/25-BA1538.full), [arXiv](https://arxiv.org/abs/2406.17318), [R package](https://cran.r-project.org/web/packages/LatentBMA/index.html)]
 
 * **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**.<br>
 G. Zens (2025).<br>
-Journal of the Royal Statistical Society, Series A (Statistics in Society).<br>
+Journal of the Royal Statistical Society, Series A (Statistics in Society), Forthcoming.<br>
 [[journal](https://doi.org/10.1093/jrsssa/qnaf062), [arXiv](https://arxiv.org/abs/2401.08247)]
 
 * **Subnational Variations in the Quality of Household Survey Data in Sub-Saharan Africa**.<br>
@@ -94,7 +94,8 @@ Advances in Data Analysis and Classification, 13(4), 1019-1051.
 
 * Discussion on **Model Uncertainty and Missing Data: An Objective Bayesian Perspective** by García-Donato et al.<br>
 M.F.J. Steel & G. Zens (2025+).<br>
-Bayesian Analysis, To Appear.<br>
+Bayesian Analysis, Forthcoming.<br>
+[[journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Model-Uncertainty-and-Missing-Data-An-Objective-Bayesian-Perspective/10.1214/25-BA1531.full)] 
 
 * Discussion on **Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown** by Frühwirth-Schnatter et al.<br>
 A. Avalos-Pacheco,  R. de Vito, & G. Zens (2025).<br>
@@ -176,7 +177,7 @@ On social mobility perceptions. derStandard.at, 07/2019.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Teaching & Thesis Supervision  </font></p>
 
-I have taught several undergraduate courses on econometrics, data science methods, economic development, economic growth, and macroeconomic theory, and I have delivered graduate-level lectures on macroeconometric methods with a focus on Bayesian computation. I supervise Bachelor’s and Master’s theses and regularly mentor PhD students in summer programs. Examples of past thesis topics include _"The importance of digitized government-to-person (G2P) payments for women's financial inclusion in developing countries"_ and _"Nowcasting GDP growth in Austria via the construction of a daily economic sentiment index using Google Trends"_.
+I have taught several undergraduate courses on predictive analytics, econometrics, data science methods, economic development, and macroeconomic theory, and I have delivered graduate-level lectures on macroeconometric methods with a focus on Bayesian computation. I supervise Bachelor’s and Master’s theses and regularly mentor PhD students in summer programs. Examples of past thesis topics include _"The importance of digitized government-to-person (G2P) payments for women's financial inclusion in developing countries"_ and _"Nowcasting GDP growth in Austria via the construction of a daily economic sentiment index using Google Trends"_.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Contact  </font></p>
 zens [at] iiasa.ac.at <br> 
