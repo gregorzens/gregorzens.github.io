@@ -94,7 +94,7 @@ Advances in Data Analysis and Classification, 13(4), 1019-1051.
 
 * Discussion on **Model Uncertainty and Missing Data: An Objective Bayesian Perspective** by García-Donato et al.<br>
 M.F.J. Steel & G. Zens (2025+).<br>
-Bayesian Analysis, Forthcoming.<br>
+Bayesian Anal. 20(4): 1677-1778.<br>
 [[journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Model-Uncertainty-and-Missing-Data-An-Objective-Bayesian-Perspective/10.1214/25-BA1531.full)] 
 
 * Discussion on **Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown** by Frühwirth-Schnatter et al.<br>
@@ -124,6 +124,7 @@ On social mobility perceptions. derStandard.at, 07/2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [Wittgenstein Centre Conference 2025 'Demographic Perspectives on Migration in the 21st Century'](https://www.oeaw.ac.at/vid/news-events/calendar/conferences/demographic-perspectives-on-migration-in-the-21st-century). (Vienna, 11/2025)
 * [Austrian & Czech Statistical Days 2025](https://conferences.jku.at/statdays/content/home). (Linz, 09/2025)
 * [Workshop 'Climbing Mortality Models II'](https://danieledurante.github.io/web/meetings/meeting_CARONTE_3.html). (Misurina, 08/2025)
 * [8th Symposium on Games and Decisions in Reliability and Risk](https://dec.unibocconi.eu/8GDRR). (Milan, 05/2025)
