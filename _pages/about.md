@@ -94,7 +94,7 @@ Advances in Data Analysis and Classification, 13(4), 1019-1051.
 
 * Discussion on **Model Uncertainty and Missing Data: An Objective Bayesian Perspective** by García-Donato et al.<br>
 M.F.J. Steel & G. Zens (2025+).<br>
-Bayesian Anal. 20(4): 1677-1778.<br>
+Bayesian Analysis, 20(4): 1677-1778.<br>
 [[journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Model-Uncertainty-and-Missing-Data-An-Objective-Bayesian-Perspective/10.1214/25-BA1531.full)] 
 
 * Discussion on **Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown** by Frühwirth-Schnatter et al.<br>
