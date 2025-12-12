@@ -32,7 +32,7 @@ with [Jakub Bijak](https://www.southampton.ac.uk/people/5x6dng/professor-jakub-b
 [[arXiv](https://arxiv.org/abs/2508.18716)]
 
 * **Bayesian Matrix Factor Models for Demographic Analysis Across Age and Time**.<br>
-[[arXiv](https://arxiv.org/abs/2502.09255v1)]
+[[arXiv](https://arxiv.org/abs/2502.09255)]
 
 * **Low-Rank Bilinear Autoregressive Models for Three-Way Criminal Activity Tensors**.<br>
 with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University), [Eleonora Patacchini](https://www.epatacchini.com/) (Cornell University) and [Carlos Díaz](https://sites.google.com/view/carlosddiaz) (Universidad Católica del Uruguay)<br>
