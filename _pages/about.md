@@ -34,10 +34,6 @@ with [Jakub Bijak](https://www.southampton.ac.uk/people/5x6dng/professor-jakub-b
 * **Bayesian Matrix Factor Models for Demographic Analysis Across Age and Time**.<br>
 [[arXiv](https://arxiv.org/abs/2502.09255)]
 
-* **Low-Rank Bilinear Autoregressive Models for Three-Way Criminal Activity Tensors**.<br>
-with [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University), [Eleonora Patacchini](https://www.epatacchini.com/) (Cornell University) and [Carlos Díaz](https://sites.google.com/view/carlosddiaz) (Universidad Católica del Uruguay)<br>
-[[arXiv](https://arxiv.org/abs/2505.01166)]<br>
-
 *  **Hidden in Plain Sight: Influential Sets in Linear Regression Models**.<br>
 with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) (WU Vienna)<br> 
 [[updated pdf](https://kuschnig.eu/files/wp_influential-sets_wip.pdf), [WP](https://www.cesifo.org/en/publikationen/2021/working-paper/hidden-plain-sight-influential-sets-linear-models)]
@@ -45,6 +41,11 @@ with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cua
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Peer-Reviewed Publications </font></p>
 
 **Journal Articles**
+
+* **Low-Rank Bilinear Autoregressive Models for Three-Way Criminal Activity Tensors**.<br>
+G. Zens, C. Díaz, D. Durante, and E. Pattachini (2026). <br>
+Journal of the Royal Statistical Society, Series C (Applied Statistics), Forthcoming.<br>
+[[arXiv](https://arxiv.org/abs/2505.01166)]<br>
 
 * **Model Uncertainty in Latent Gaussian Models with Univariate Link Function**.<br>
 M.F.J. Steel and G. Zens (2025).<br>
