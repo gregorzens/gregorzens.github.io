@@ -28,14 +28,14 @@ with [Mark F.J. Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-r
 [[arXiv](https://arxiv.org/abs/2509.11751)]
 
 * **Dynamic Count Models with Flexible Innovation Processes for Irregular Maritime Migration**.<br>
-with [Jakub Bijak](https://www.southampton.ac.uk/people/5x6dng/professor-jakub-bijak) (University of Southampton)<br>
+with [Jakub Bijak](https://www.southampton.ac.uk/people/5x6dng/professor-jakub-bijak) (University of Oxford)<br>
 [[arXiv](https://arxiv.org/abs/2508.18716)]
 
 * **Bayesian Matrix Factor Models for Demographic Analysis Across Age and Time**.<br>
 [[arXiv](https://arxiv.org/abs/2502.09255)]
 
 *  **Hidden in Plain Sight: Influential Sets in Linear Regression Models**.<br>
-with [Nikolas Kuschnig](https://kuschnig.eu/) (WU Vienna) and [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) (WU Vienna)<br> 
+with [Nikolas Kuschnig](https://kuschnig.eu/) (Monash University) and [Jésus Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j) (WU Vienna)<br> 
 [[updated pdf](https://kuschnig.eu/files/wp_influential-sets_wip.pdf), [WP](https://www.cesifo.org/en/publikationen/2021/working-paper/hidden-plain-sight-influential-sets-linear-models)]
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Peer-Reviewed Publications </font></p>
@@ -125,6 +125,7 @@ On social mobility perceptions. derStandard.at, 07/2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* Vienna Workshop on Migration Modeling. (Vienna, 02/2026)
 * [Wittgenstein Centre Conference 2025 'Demographic Perspectives on Migration in the 21st Century'](https://www.oeaw.ac.at/vid/news-events/calendar/conferences/demographic-perspectives-on-migration-in-the-21st-century). (Vienna, 11/2025)
 * [Austrian & Czech Statistical Days 2025](https://conferences.jku.at/statdays/content/home). (Linz, 09/2025)
 * [Workshop 'Climbing Mortality Models II'](https://danieledurante.github.io/web/meetings/meeting_CARONTE_3.html). (Misurina, 08/2025)
