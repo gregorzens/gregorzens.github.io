@@ -19,7 +19,7 @@ I am affiliated with the [International Institute for Applied Systems Analysis (
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Focus  </font></p>
 
-My research focuses on developing and applying quantitative methods for high-dimensional and structured data, motivated by questions in human migration, demography, and the social sciences more broadly. Methodologically, I am particularly interested in Bayesian statistics, with an emphasis on computational techniques, scalable probabilistic inference, and interpretable modeling. I collaborate closely with economists, sociologists, demographers, and climate scientists, and translate my work into practice through open-source R packages. Below are some of my current and past projects.
+My research focuses on developing and applying quantitative methods for high-dimensional and structured data, motivated by questions in economics, human migration, demography, and the social sciences more broadly. Methodologically, I am particularly interested in Bayesian statistics, with an emphasis on statistical computational techniques, scalable probabilistic inference, and interpretable modeling. I collaborate closely with economists, sociologists, demographers, and climate scientists, and translate my work into practice through open-source R packages. Below are some of my current and past projects.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Preprints and Selected Work in Progress </font></p>
 
@@ -180,7 +180,7 @@ On social mobility perceptions. derStandard.at, 07/2019.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Teaching & Thesis Supervision  </font></p>
 
-I have taught several undergraduate courses on predictive analytics, econometrics, data science methods, economic development, and macroeconomic theory, and I have delivered graduate-level lectures on macroeconometric methods with a focus on Bayesian computation. I supervise Bachelor’s and Master’s theses and regularly mentor PhD students in summer programs. Examples of past thesis topics include _"The importance of digitized government-to-person (G2P) payments for women's financial inclusion in developing countries"_ and _"Nowcasting GDP growth in Austria via the construction of a daily economic sentiment index using Google Trends"_.
+I have taught several undergraduate courses on statistics, econometrics, data science methods, economic development, and macroeconomic theory, and I have delivered graduate-level lectures on macroeconometric methods with a focus on Bayesian computation. I supervise Bachelor’s and Master’s theses and regularly mentor PhD students in summer programs. Recent supervised projects have ranged from using text mining to trace inflation expectations on Reddit and nowcasting GDP growth with Google Trends, to leveraging social media network data to model European migration flows.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Contact  </font></p>
 zens [at] iiasa.ac.at <br> 
