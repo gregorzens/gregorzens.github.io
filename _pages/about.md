@@ -27,10 +27,6 @@ My research focuses on developing and applying quantitative methods for high-dim
 with [Mark F.J. Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)<br>
 [[arXiv](https://arxiv.org/abs/2509.11751)]
 
-* **Dynamic Count Models with Flexible Innovation Processes for Irregular Maritime Migration**.<br>
-with [Jakub Bijak](https://www.southampton.ac.uk/people/5x6dng/professor-jakub-bijak) (University of Oxford)<br>
-[[arXiv](https://arxiv.org/abs/2508.18716)]
-
 * **Bayesian Matrix Factor Models for Demographic Analysis Across Age and Time**.<br>
 [[arXiv](https://arxiv.org/abs/2502.09255)]
 
@@ -41,6 +37,11 @@ with [Nikolas Kuschnig](https://kuschnig.eu/) (Monash University) and [Jésus Cr
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Peer-Reviewed Publications </font></p>
 
 **Journal Articles**
+
+* **Dynamic Count Models with Flexible Innovation Processes for Irregular Maritime Migration**.<br>
+G. Zens and J. Bijak (2026)<br>
+The Annals of Applied Statistics, Forthcoming.<br>
+[[arXiv](https://arxiv.org/abs/2508.18716)]
 
 * **Low-Rank Bilinear Autoregressive Models for Three-Way Criminal Activity Tensors**.<br>
 G. Zens, C. Díaz, D. Durante, and E. Pattachini (2026). <br>
