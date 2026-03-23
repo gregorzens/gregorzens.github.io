@@ -27,6 +27,10 @@ My research focuses on developing and applying quantitative methods for high-dim
 with [Mark F.J. Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)<br>
 [[arXiv](https://arxiv.org/abs/2509.11751)]
 
+* **Probabilistic Estimation of Hidden Migrant Fatalities Along the Central Mediterranean Route**.<br>
+with [Zoe Sigman](https://www.zoe-sigman.com/) (Hertie School & HU Berlin)<br>
+[[arXiv](https://arxiv.org/abs/2603.19986)]
+
 * **Bayesian Matrix Factor Models for Demographic Analysis Across Age and Time**.<br>
 [[arXiv](https://arxiv.org/abs/2502.09255)]
 
