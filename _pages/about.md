@@ -45,12 +45,12 @@ with [Nikolas Kuschnig](https://kuschnig.eu/) (Monash University) and [Jésus Cr
 * **Dynamic Count Models with Flexible Innovation Processes for Irregular Maritime Migration**.<br>
 G. Zens and J. Bijak (2026)<br>
 The Annals of Applied Statistics, Forthcoming.<br>
-[[arXiv](https://arxiv.org/abs/2508.18716)]
+[[pdf](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/71590?confirm=b3c9b170), [arXiv](https://arxiv.org/abs/2508.18716)
 
 * **Low-Rank Bilinear Autoregressive Models for Three-Way Criminal Activity Tensors**.<br>
 G. Zens, C. Díaz, D. Durante, and E. Pattachini (2026). <br>
 Journal of the Royal Statistical Society, Series C (Applied Statistics), Forthcoming.<br>
-[[arXiv](https://arxiv.org/abs/2505.01166)]<br>
+[[journal](https://academic.oup.com/jrsssc/advance-article-abstract/doi/10.1093/jrsssc/qlag017/8541549?redirectedFrom=fulltext), [arXiv](https://arxiv.org/abs/2505.01166)
 
 * **Model Uncertainty in Latent Gaussian Models with Univariate Link Function**.<br>
 M.F.J. Steel and G. Zens (2025).<br>
@@ -130,6 +130,7 @@ On social mobility perceptions. derStandard.at, 07/2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [Institute for Statistics and Mathematics, WU Vienna](https://www.wu.ac.at/en/statmath/details-news-statmath/detail/research-seminar-gregor-zens). (Vienna, 03/2026)
 * Vienna Workshop on Migration Modeling. (Vienna, 02/2026)
 * [Wittgenstein Centre Conference 2025 'Demographic Perspectives on Migration in the 21st Century'](https://www.oeaw.ac.at/vid/news-events/calendar/conferences/demographic-perspectives-on-migration-in-the-21st-century). (Vienna, 11/2025)
 * [Austrian & Czech Statistical Days 2025](https://conferences.jku.at/statdays/content/home). (Linz, 09/2025)
