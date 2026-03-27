@@ -45,12 +45,12 @@ with [Nikolas Kuschnig](https://kuschnig.eu/) (Monash University) and [Jésus Cr
 * **Dynamic Count Models with Flexible Innovation Processes for Irregular Maritime Migration**.<br>
 G. Zens and J. Bijak (2026)<br>
 The Annals of Applied Statistics, Forthcoming.<br>
-[[pdf](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/71590?confirm=b3c9b170), [arXiv](https://arxiv.org/abs/2508.18716)
+[[pdf](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/71590?confirm=b3c9b170), [arXiv](https://arxiv.org/abs/2508.18716)]
 
 * **Low-Rank Bilinear Autoregressive Models for Three-Way Criminal Activity Tensors**.<br>
 G. Zens, C. Díaz, D. Durante, and E. Pattachini (2026). <br>
 Journal of the Royal Statistical Society, Series C (Applied Statistics), Forthcoming.<br>
-[[journal](https://academic.oup.com/jrsssc/advance-article-abstract/doi/10.1093/jrsssc/qlag017/8541549?redirectedFrom=fulltext), [arXiv](https://arxiv.org/abs/2505.01166)
+[[journal](https://academic.oup.com/jrsssc/advance-article-abstract/doi/10.1093/jrsssc/qlag017/8541549?redirectedFrom=fulltext), [arXiv](https://arxiv.org/abs/2505.01166)]
 
 * **Model Uncertainty in Latent Gaussian Models with Univariate Link Function**.<br>
 M.F.J. Steel and G. Zens (2025).<br>
