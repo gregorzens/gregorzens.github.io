@@ -19,7 +19,7 @@ I am affiliated with the [International Institute for Applied Systems Analysis (
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Focus  </font></p>
 
-My research focuses on developing and applying quantitative methods for high-dimensional and structured data, motivated by questions in economics, human migration, demography, and the social sciences more broadly. Methodologically, I am particularly interested in Bayesian statistics, with an emphasis on statistical computational techniques, scalable probabilistic inference, and interpretable modeling. I collaborate closely with economists, sociologists, demographers, and climate scientists, and translate my work into practice through open-source R packages. Below are some of my current and past projects.
+My research focuses on developing and applying quantitative methods for high-dimensional and structured data, motivated by questions in economics, human migration, demography, and the social sciences more broadly. Methodologically, I am particularly interested in Bayesian statistics, with an emphasis on computational techniques, scalable probabilistic inference, and interpretable modeling. I collaborate closely with economists, sociologists, demographers, and climate scientists, and translate my work into practice through open-source R packages. Below are some of my current and past projects.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Preprints and Selected Work in Progress </font></p>
 
@@ -130,6 +130,7 @@ On social mobility perceptions. derStandard.at, 07/2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [Faculty of Economics and Statistics, University of Innsbruck](https://www.uibk.ac.at/en/econstat/research/research-seminars-and-talks/faculty-research-seminar-summer-term-2026/). (Innsbruck, 05/2026)
 * [Institute for Statistics and Mathematics, WU Vienna](https://www.wu.ac.at/en/statmath/details-news-statmath/detail/research-seminar-gregor-zens). (Vienna, 03/2026)
 * Vienna Workshop on Migration Modeling. (Vienna, 02/2026)
 * [Wittgenstein Centre Conference 2025 'Demographic Perspectives on Migration in the 21st Century'](https://www.oeaw.ac.at/vid/news-events/calendar/conferences/demographic-perspectives-on-migration-in-the-21st-century). (Vienna, 11/2025)
@@ -181,7 +182,8 @@ On social mobility perceptions. derStandard.at, 07/2019.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Academic Visits </font></p>
 
-* [Department of Statistics, University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). Hosted by [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/). 09/2021.
+* [Max Planck Institute for Demographic Research](https://www.demogr.mpg.de/en). 04/2026.
+* [Department of Statistics, University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). 09/2021.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Teaching & Thesis Supervision  </font></p>
