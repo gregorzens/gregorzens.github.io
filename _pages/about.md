@@ -23,6 +23,10 @@ My research focuses on developing and applying quantitative methods for high-dim
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Preprints and Selected Work in Progress </font></p>
 
+* **Distributional Forecasting of EU Asylum Applications with Dynamic Multivariate Count Models**.<br>
+with [Jakub Bijak](https://www.demography.ox.ac.uk/people/jakub-bijak) (University of Oxford)<br>
+[[arXiv](https://arxiv.org/abs/2606.16677)]
+
 * **Scalable Variable Selection and Model Averaging for Latent Regression Models Using Approximate Variational Bayes**.<br>
 with [Mark F.J. Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/) (University of Warwick)<br>
 [[arXiv](https://arxiv.org/abs/2509.11751)]
@@ -109,7 +113,7 @@ Bayesian Analysis, 20(1): 213-344.<br>
 [[journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)] 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Software </font></p>
-* R Package ``LatentBMA`` for model averaging in latent Gaussian models, currently in v0.1.2.<br>
+* R Package ``LatentBMA`` for model averaging in latent Gaussian models, currently in v0.1.3.<br>
 [[CRAN](https://cran.r-project.org/web/packages/LatentBMA/index.html), [vignette](https://cran.r-project.org/web/packages/LatentBMA/vignettes/LatentBMA_Vignette.html), [methods paper](https://arxiv.org/abs/2406.17318)]
 * R Package ``UPG`` for efficient Bayesian logistic regression, currently in v0.3.5.<br>
 [[CRAN](https://cran.r-project.org/web/packages/UPG/index.html), [vignette](https://arxiv.org/abs/2101.02506), [methods paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2259030)]
@@ -130,6 +134,7 @@ On social mobility perceptions. derStandard.at, 07/2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [European Population Conference 2026](https://epc2026.eaps.nl/). (Bologna, 06/2026)
 * [Faculty of Economics and Statistics, University of Innsbruck](https://www.uibk.ac.at/en/econstat/research/research-seminars-and-talks/faculty-research-seminar-summer-term-2026/). (Innsbruck, 05/2026)
 * [Institute for Statistics and Mathematics, WU Vienna](https://www.wu.ac.at/en/statmath/details-news-statmath/detail/research-seminar-gregor-zens). (Vienna, 03/2026)
 * Vienna Workshop on Migration Modeling. (Vienna, 02/2026)
