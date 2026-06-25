@@ -134,6 +134,7 @@ On social mobility perceptions. derStandard.at, 07/2019.
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations at Conferences, Seminars and Workshops </font></p>
+* [Joint Meeting SIS-FENStatS 2026](https://sis2026.sis-statistica.it/). (Rome, 06/2026)
 * [European Population Conference 2026](https://epc2026.eaps.nl/). (Bologna, 06/2026)
 * [Faculty of Economics and Statistics, University of Innsbruck](https://www.uibk.ac.at/en/econstat/research/research-seminars-and-talks/faculty-research-seminar-summer-term-2026/). (Innsbruck, 05/2026)
 * [Institute for Statistics and Mathematics, WU Vienna](https://www.wu.ac.at/en/statmath/details-news-statmath/detail/research-seminar-gregor-zens). (Vienna, 03/2026)
