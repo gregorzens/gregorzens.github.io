@@ -35,6 +35,14 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<!-- open pages at the top: stop the browser restoring a stale scroll position (keeps #section deep-links working) -->
+<script>
+  if ('scrollRestoration' in history) { history.scrollRestoration = 'manual'; }
+  window.addEventListener('load', function () {
+    if (!window.location.hash) { window.scrollTo(0, 0); }
+  });
+</script>
+
 <!-- elegant restyle -->
 <style type="text/css">
   :root{
@@ -162,7 +170,7 @@
     color:var(--ink);
   }
   .greedy-nav .masthead__menu-item--lg a:hover{ text-decoration:none; color:var(--ink); }
-  .greedy-nav .hidden-links{ background:var(--paper); border:1px solid var(--rule); box-shadow:none; }
+  .greedy-nav .hidden-links{ background:var(--paper); border:1px solid var(--rule); box-shadow:none; z-index:20; }
 
   /* ---- author sidebar: match the rest of the site ---- */
   .sidebar .author__name, .author__name{
@@ -189,8 +197,6 @@
   }
   .author__urls a{ color:var(--accent); text-decoration:none; }
   .author__urls a:hover{ color:var(--accent-strong); text-decoration:underline; text-underline-offset:2px; }
-  /* drop the vestigial "Follow" button */
-  .author__urls-wrapper > .btn{ display:none; }
 
   /* footer: quiet it down */
   .page__footer{ background:var(--paper); border-top:1px solid var(--rule); }
@@ -201,6 +207,38 @@
     font-family:var(--font);
     font-weight:600;
     letter-spacing:-.005em;
+  }
+  /* ---- mobile (below the $large 1200px sidebar breakpoint) ---- */
+  @media (max-width:1199px){
+    /* stack the author block and centre it, with a larger photo */
+    .author__avatar,
+    .author__content,
+    .author__urls-wrapper{
+      display:block;
+      text-align:center;
+    }
+    .author__avatar{ width:auto; margin:0 auto 12px; }
+    .author__avatar img{
+      display:block;
+      margin:0 auto;
+      width:100%;
+      max-width:170px;
+    }
+    .author__content{ margin-bottom:10px; }
+    /* links flow inline under the bio instead of as an absolute popup overlay */
+    .author__urls{
+      display:block !important;       /* override the theme JS that hides/positions it */
+      position:static !important;
+      right:auto;
+      margin:0 auto !important;
+      padding:0 !important;
+      border:0 !important;
+      background:transparent !important;
+      box-shadow:none !important;
+    }
+    .author__urls:before,
+    .author__urls:after{ display:none !important; }
+    .author__urls li{ white-space:normal; }
   }
 </style>
 <!-- end custom head snippets -->
