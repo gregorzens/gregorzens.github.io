@@ -2,6 +2,9 @@
 
 <!-- start custom head snippets -->
 
+<!-- preload the avatar hover image so the first hover doesn't flash/reflow -->
+<link rel="preload" as="image" href="/images/profile-hover.png">
+
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
@@ -131,7 +134,8 @@
     background:var(--paper);
     border-bottom:1px solid var(--rule);
     box-shadow:none;
-    position:static;
+    position:relative;
+    z-index:100;
   }
   .greedy-nav{ background:var(--paper); }
   .greedy-nav .visible-links a,
@@ -239,6 +243,11 @@
     .author__urls:before,
     .author__urls:after{ display:none !important; }
     .author__urls li{ white-space:normal; }
+  }
+
+  /* mobile: keep the header only on the about (home) page */
+  @media (max-width:768px){
+    .masthead--sub{ display:none; }
   }
 </style>
 <!-- end custom head snippets -->
