@@ -242,24 +242,12 @@
 }
 
 /*
-   Mobile-only profile detail hiding
+   Hide the author/sidebar block on mobile for all non-about pages.
+   Desktop remains unchanged because the sidebar is still visible at $large and up.
    ========================================================================== */
 
 @media (max-width: #{$large - 1px}) {
-  .sidebar--hide-mobile-profile-details {
-    .author__avatar,
-    .author__urls-wrapper {
-      display: none;
-    }
-
-    .author__content {
-      display: block;
-      padding-left: 0;
-      padding-right: 0;
-    }
-
-    .author__bio {
-      margin-top: 0.25rem;
-    }
+  .sidebar--hide-on-mobile {
+    display: none;
   }
 }

@@ -3,11 +3,11 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
 
   {% assign is_about_page = false %}
-  {% if page.url == "/" or page.url == "/about/" or page.permalink == "/" %}
+  {% if page.url == "/" or page.permalink == "/" %}
     {% assign is_about_page = true %}
   {% endif %}
 
-  <div class="sidebar sticky{% unless is_about_page %} sidebar--hide-mobile-profile-details{% endunless %}">
+  <div class="sidebar sticky{% unless is_about_page %} sidebar--hide-on-mobile{% endunless %}">
     {% if page.author_profile or layout.author_profile %}
       {% include author-profile.html %}
     {% endif %}
@@ -15,13 +15,13 @@
     {% if page.sidebar %}
       {% for s in page.sidebar %}
         {% if s.image %}
-          {% if s.image contains "://" %}
-            {% assign sidebar_image = s.image %}
-          {% else %}
-            {% assign sidebar_image = s.image | prepend: "/images/" | prepend: base_path %}
-          {% endif %}
-
-          <img src="{{ sidebar_image }}" alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+          <img src=
+            {% if s.image contains "://" %}
+              "{{ s.image }}"
+            {% else %}
+              "{{ s.image | prepend: "/images/" | prepend: base_path }}"
+            {% endif %}
+          alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
         {% endif %}
 
         {% if s.title %}
