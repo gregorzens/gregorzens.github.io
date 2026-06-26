@@ -1,0 +1,10 @@
+# main menu links
+main:
+  - title: "about"
+    url: /
+  - title: "research"
+    url: /research/
+  - title: "talks"
+    url: /talks/
+  - title: "teaching and supervision"
+    url: /teaching/
