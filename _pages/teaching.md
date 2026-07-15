@@ -12,7 +12,7 @@ I supervise Bachelor’s and Master’s theses and contribute to the training of
 
 ### Guest Lectures and Student Workshops
 
-* **Conceptual and Methodological Issues in Modeling Climate-Related Human Mobility.** Pre-conference workshop for MSc and PhD students, Wittgenstein Centre, Austrian Academy of Sciences, November 2025.
-* **Statistical Perspectives on Human Migration.** Workshop for the *Forum Junge Statistik* of the Austrian Statistical Association, University of Vienna, October 2025.
+* **Conceptual and Methodological Issues in Modeling Climate-Related Human Mobility.** Wittgenstein Centre pre-conference workshop for MSc and PhD students, Austrian Academy of Sciences, November 2025.
+* **Statistical Perspectives on Human Migration.** Workshop for the *Forum Junge Statistik* of the Austrian Statistical Society, University of Vienna, October 2025.
 * **Analyzing and Visualizing Spatial Data in R: Demography, Climate, and Political Protest in Italy.** Guest lecture for BSc students, University of Bologna, November 2023.
 * **Exploring Statistical Methods and Data Sources for the Study of Population and Climate Change.** Guest lecture for MSc and PhD students, University of Bologna, March 2023.
