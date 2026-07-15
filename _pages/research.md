@@ -34,6 +34,11 @@ G. Zens and J. Bijak (2026)<br>
 The Annals of Applied Statistics, 20(2), 1671-1690.<br>
 <span class="refs">[[journal](https://doi.org/10.1214/26-AOAS2171), [pdf](https://github.com/gregorzens/gregorzens.github.io/blob/master/files/AOAS2171.pdf?raw=true)]</span>
 
+* **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**.<br>
+G. Zens (2026).<br>
+Journal of the Royal Statistical Society Series A: Statistics in Society, 189(3), 1289--1307.<br>
+<span class="refs">[[journal](https://doi.org/10.1093/jrsssa/qnaf062), [arXiv](https://arxiv.org/abs/2401.08247)]</span>
+
 * **Low-Rank Bilinear Autoregressive Models for Three-Way Criminal Activity Tensors**.<br>
 G. Zens, C. Díaz, D. Durante, and E. Pattachini (2026). <br>
 Journal of the Royal Statistical Society, Series C (Applied Statistics), Forthcoming.<br>
@@ -43,11 +48,6 @@ Journal of the Royal Statistical Society, Series C (Applied Statistics), Forthco
 M.F.J. Steel and G. Zens (2025).<br>
 Bayesian Analysis, Forthcoming.<br>
 <span class="refs">[[journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Model-Uncertainty-in-Latent-Gaussian-Models-with-Univariate-Link-Function/10.1214/25-BA1538.full), [arXiv](https://arxiv.org/abs/2406.17318), [R package](https://cran.r-project.org/web/packages/LatentBMA/index.html)]</span>
-
-* **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**.<br>
-G. Zens (2025).<br>
-Journal of the Royal Statistical Society, Series A (Statistics in Society), Forthcoming.<br>
-<span class="refs">[[journal](https://doi.org/10.1093/jrsssa/qnaf062), [arXiv](https://arxiv.org/abs/2401.08247)]</span>
 
 * **Subnational Variations in the Quality of Household Survey Data in Sub-Saharan Africa**.<br>
 V. Seidler, E. C. Utazi, A. B. Finaret, S. Luckeneder, G. Zens, ... &  P. Webb (2025).<br>
@@ -83,6 +83,14 @@ Environment and Development Economics, 25(4), 315-333.<br>
 G. Zens (2019).<br>
 Advances in Data Analysis and Classification, 13(4), 1019-1051.
 
+### Book Chapters
+
+* **Marginal Data Augmentation for Efficient Bayesian Modeling of Counts and Rates with a Demographic Application**.<br>
+  G. Zens & S. Frühwirth-Schnatter (2026).<br>
+  In T. Nagler, D. Kurowicka, R. Cooke & H. Joe (Eds.), *Statistical Dependence Modeling: Festschrift in Honor of Claudia Czado*, 353–374.<br>
+  Cham: Springer Nature.<br>
+  <span class="refs">[[publisher](https://link.springer.com/chapter/10.1007/978-3-032-14252-8_15)]</span>
+
 ### Discussions
 
 * Discussion on **Model Uncertainty and Missing Data: An Objective Bayesian Perspective** by García-Donato et al.<br>
@@ -97,6 +105,8 @@ Bayesian Analysis, 20(1): 213-344.<br>
 
 ## Software
 
+* R Package `DynCount` for latent time series models for count data, currently in v0.1.0.<br>
+<span class="refs">[[CRAN](https://cran.r-project.org/web/packages/DynCount/index.html), [vignette](https://cran.r-project.org/web/packages/DynCount/vignettes/DynCount-intro.html), [methods paper](https://doi.org/10.1214/26-AOAS2171)]</span>
 * R Package `LatentBMA` for model averaging in latent Gaussian models, currently in v0.1.3.<br>
 <span class="refs">[[CRAN](https://cran.r-project.org/web/packages/LatentBMA/index.html), [vignette](https://cran.r-project.org/web/packages/LatentBMA/vignettes/LatentBMA_Vignette.html), [methods paper](https://arxiv.org/abs/2406.17318)]</span>
 * R Package `UPG` for efficient Bayesian logistic regression, currently in v0.3.5.<br>
@@ -117,6 +127,7 @@ On social mobility perceptions. derStandard.at, 07/2019.
 
 ## Awards, Fellowships, Travel Grants
 
+* [DEBIAS](https://de-bias.github.io/debias/) Fellows Network, 2026
 * Award of Excellence / State Prize for Dissertations of the Austrian Federal Ministry of Education, Science and Research, 2022
 * [Best Student/Postdoc Contributed Paper Award](https://www.wu.ac.at/mobile-first/news/details/detail/gregor-zens-receives-best-studentpostdoc-contributed-paper-award), ISBA World Meeting 2021
 * [ISBA - EFaB Young Researcher Award](http://www.est.uc3m.es/BayesUC3M/ESOBE2021/Travel.htm), European Seminar on Bayesian Econometrics 2021
