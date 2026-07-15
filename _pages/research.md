@@ -32,7 +32,7 @@ with [Nikolas Kuschnig](https://kuschnig.eu/) (Monash University) and [Jésus Cr
 * **Dynamic Count Models with Flexible Innovation Processes for Irregular Maritime Migration**.<br>
 G. Zens and J. Bijak (2026)<br>
 The Annals of Applied Statistics, 20(2), 1671-1690.<br>
-<span class="refs">[[journal](https://doi.org/10.1214/26-AOAS2171), [pdf](https://github.com/gregorzens/gregorzens.github.io/blob/master/files/AOAS2171.pdf?raw=true)]</span>
+<span class="refs">[[journal](https://doi.org/10.1214/26-AOAS2171), [pdf](https://github.com/gregorzens/gregorzens.github.io/blob/master/files/AOAS2171.pdf?raw=true), [R package](https://cran.r-project.org/web/packages/DynCount/index.html)]</span>
 
 * **Flexible Bayesian Modeling of Age-Specific Counts in Many Demographic Subpopulations**.<br>
 G. Zens (2026).<br>
