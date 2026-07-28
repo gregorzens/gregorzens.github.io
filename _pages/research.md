@@ -89,7 +89,7 @@ Advances in Data Analysis and Classification, 13(4), 1019-1051.
   G. Zens & S. Frühwirth-Schnatter (2026).<br>
   In T. Nagler, D. Kurowicka, R. Cooke & H. Joe (Eds.), *Statistical Dependence Modeling: Festschrift in Honor of Claudia Czado*, 353–374.<br>
   Cham: Springer Nature.<br>
-  <span class="refs">[[publisher](https://link.springer.com/chapter/10.1007/978-3-032-14252-8_15),[arXiv](https://arxiv.org/abs/2607.24055)]</span>
+  <span class="refs">[[publisher](https://link.springer.com/chapter/10.1007/978-3-032-14252-8_15), [arXiv](https://arxiv.org/abs/2607.24055)]</span>
 
 ### Discussions
 
