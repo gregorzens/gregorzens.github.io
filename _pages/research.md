@@ -105,7 +105,7 @@ Bayesian Analysis, 20(1): 213-344.<br>
 
 ## Software
 
-* R Package `DynCount` for latent time series models for count data, currently in v0.1.0.<br>
+* R Package `DynCount` for latent time series models for count data, currently in v0.2.0.<br>
 <span class="refs">[[CRAN](https://cran.r-project.org/web/packages/DynCount/index.html), [vignette](https://cran.r-project.org/web/packages/DynCount/vignettes/DynCount-intro.html), [methods paper](https://doi.org/10.1214/26-AOAS2171)]</span>
 * R Package `LatentBMA` for model averaging in latent Gaussian models, currently in v0.1.3.<br>
 <span class="refs">[[CRAN](https://cran.r-project.org/web/packages/LatentBMA/index.html), [vignette](https://cran.r-project.org/web/packages/LatentBMA/vignettes/LatentBMA_Vignette.html), [methods paper](https://arxiv.org/abs/2406.17318)]</span>

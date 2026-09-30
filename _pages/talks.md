@@ -6,6 +6,7 @@ author_profile: true
 
 ## Presentations at Conferences, Seminars and Workshops
 
+* [MathSEE 2026 @ KIT](https://symposium-2026.mathsee.kit.edu/). (Karlsruhe, 09/2026)
 * [Joint Meeting SIS-FENStatS 2026](https://sis2026.sis-statistica.it/). (Rome, 06/2026)
 * [European Population Conference 2026](https://epc2026.eaps.nl/). (Bologna, 06/2026)
 * [Faculty of Economics and Statistics, University of Innsbruck](https://www.uibk.ac.at/en/econstat/research/research-seminars-and-talks/faculty-research-seminar-summer-term-2026/). (Innsbruck, 05/2026)
