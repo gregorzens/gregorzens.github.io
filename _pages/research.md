@@ -18,7 +18,7 @@ with [Mark F.J. Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-r
 with [Zoe Sigman](https://www.zoe-sigman.com/) (Hertie School & HU Berlin)<br>
 <span class="refs">[[arXiv](https://arxiv.org/abs/2603.19986)]</span>
 
-* **Bayesian Matrix Factor Models for Demographic Analysis Across Age and Time**.<br>
+* **Bayesian Adaptive Tensor Smoothing for Multiway Demographic Counts**.<br>
 <span class="refs">[[arXiv](https://arxiv.org/abs/2502.09255)]</span>
 
 *  **Hidden in Plain Sight: Influential Sets in Linear Regression Models**.<br>
